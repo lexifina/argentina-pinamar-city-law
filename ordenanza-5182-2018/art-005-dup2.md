@@ -1,0 +1,1 @@
+ARTICULO 5: Comisionar al Departamento Ejecutivo Municipal a que utilice todos los mecanismos legales a su alcance para asegurar el acceso a los servicios públicos esenciales de todos los habitantes de nuestro Distrito.
