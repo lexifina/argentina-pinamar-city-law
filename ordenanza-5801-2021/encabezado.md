@@ -1,0 +1,20 @@
+Ordenanza Nº5801/2020
+Ordenanza Nº 5801/2020
+Pinamar, 03/12/2020
+VISTO:
+La Ley Nacional N° 27.592 denominada "Ley Yolanda", el Expediente Interno N° 2417/2020 caratulado "Acuerdo Escazú", Y;
+CONSIDERANDO:
+Que, la educación ambiental en funcionarios y trabajadores estatales resulta completamente necesaria para poner el foco en una gestión racional de los recursos y construir permanentemente actitudes que redunden en beneficio de la naturaleza; incorporando estos valores como horizonte de nuestra sociedad, ecológicamente equilibrada y sostenible.
+Que la Ley Nacional N° 27.592 tiene por objetivo capacitar a quienes integran los diferentes organismos del Estado; con el fin de llevar la educación ambiental a todos los funcionarios públicos en favor de la integración y de las medidas que se consideren necesarias para hacer posible la transversalidad del medio ambiente en las políticas públicas a través de la sensibilización, motivación, información y capacitación, incorporando en sus políticas y metas la sustentabilidad en su accionar diario.
+Que el espíritu de esta ley se basa en brindar herramientas conceptuales y competencias para la construcción de un paradigma de desarrollo eco sistémico para la transformación de los actuales patrones de producción y consumo;
+Que la "Ley General de Ambiente" Nº 25.675 hace referencia a la educación ambiental como un instrumento básico para generar en los ciudadanos valores, comportamientos y actitudes acordes con un ambiente equilibrado, ponderando la preservación de los recursos naturales, su utilización sostenible y mejorando la calidad de vida de la población;
+Que, en ese sentido, con el objeto de enriquecer las discusiones y ampliar el conocimiento territorial es que resulta fundamental sumar a las organizaciones de la sociedad civil que trabajan la temática a la co-creación y aval de los contenidos de esta ley; atendiendo a su vez, la demanda del tercer sector y de la sociedad en su conjunto que resalta la importancia que conlleva la educación ambiental en los tres poderes del Estado, siendo este un sector imprescindible en la alianza por el cuidado del ambiente y el desarrollo sostenible.
+Que, en articulación permanente de todos los sectores, con el objeto de educar y sensibilizar sobre las temáticas desarrolladas, se volverá real la capacidad de crear políticas públicas con perspectiva ambiental.
+Que, en el marco actual, es de suma importancia garantizar la integración de la sustentabilidad en los planes nacionales de recuperación post COVID - 19. Para ello, los líderes políticos que tienen en sus manos la posibilidad de ser agentes de cambio, deben estar inmersos y capacitados en estas temáticas para poder tomar decisiones sólidas, argumentadas y apoyadas en valores sustentables y ambientales, siendo beneficiosas para todos los habitantes del territorio argentino como establece el Art. 41 de nuestra Constitución Nacional. La formación de ellos como actores sociales responsables resulta urgente y fundamental.
+Que Pinamar, es una ciudad que tiene una marcada línea respecto al cuidado del Ambiente y su protección, mediante el fomento de la educación, la creación de normativas que han sido pioneras en la materia y el trabajo mancomunado con distintas instituciones dedicadas a la temática como los son, la Fundación Ecológica Pinamar, la Fundación Ecológica de Cariló, La cooperativa Reciclando Conciencia, Surf Rider, Yo Amo Mi Playa, las distintas sociedades de Fomento de todo el Partido y la participación más reciente de la Asoc. Civil (en formación) Terra Activa.
+Que por decreto N° 2800/2019 se crea la Secretaría de Paisaje y Medio Ambiente resaltando la importancia del estado en esta materia.
+Que este Honorable cuerpo ya había manifestado la intención de que esta Ley sea tratada en el Congreso de la Nación, por su importancia para todos los habitantes del tel territorio nacional, mediante la sanción de la Resolución Nº 2417/20
+POR ELLO:
+El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente:
+ORDENANZA Nº 5801/2020
+ORDENANZA
