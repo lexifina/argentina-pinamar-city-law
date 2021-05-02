@@ -1,0 +1,1 @@
+Artículo 1°.- Adhiérese la Provincia de Buenos Aires a la Ley Nacional N° 27.350, que establece un marco regulatorio para la investigación médica y científica del uso medicinal, terapéutico y/o paliativo del dolor de la planta de cannabis (Cannabis sativa) y sus derivados, garantizando y promoviendo el cuidado integral de la salud.
