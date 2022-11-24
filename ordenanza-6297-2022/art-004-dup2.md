@@ -1,0 +1,1 @@
+ARTICULO 4: Participantes: la Comisión convoca a todas las personas, asociaciones de usuarios, consumidores y otros organismos públicos que manifiesten interés para participar, por si y/o a través de representante designado a tal efecto, en el marco de la celebración de la misma.

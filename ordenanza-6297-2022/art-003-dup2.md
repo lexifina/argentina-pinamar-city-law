@@ -1,0 +1,1 @@
+ARTICULO 3: Efectos: las opiniones y propuestas vertidas por los participantes en la audiencia pública tendrán carácter consultivo y no vinculante conforme a lo normado por el artículo 9° de la Ley N° 13.569 y Ordenanza No 5715/20
