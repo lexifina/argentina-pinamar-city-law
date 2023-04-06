@@ -1,0 +1,5 @@
+Ordenanza Nº6321/22
+Ordenanza Nº 6321/22
+Pinamar, 25/11/2022
+VISTO: El Expediente N° 4123-1925/15 Cpo.1 Caratulado: “Se le asigne el nombre de José Pepe Olaechea al hospital municipal de Pinamar” ;y CONSIDERANDO: Que por Ordenanza 4645/15 se designó con el nombre de Dr. Dionisio José “Pepe” Olaechea al Hospital Comunitario de Pinamar haciendo honor y reconocimiento a la labor profesional y desempeño humano dentro de la sociedad del Dr. Dionisio José Olaechea. Que la conducta humana y profesional del Dr. “PEPE” es digna de ser imitada por los profesionales de la Salud actuales y futuros. Que este Honorable Cuerpo cree oportuno y conveniente que toda la documentación oficial del Hospital Comunitario de Pinamar lleve como membrete en el margen superior derecho la frase “Hospital Comunitario de Pinamar Dr. Dionisio Jose “Pepe” Olaechea en homenaje a su persona. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6321/2022
+ORDENANZA
