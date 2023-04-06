@@ -1,0 +1,5 @@
+Ordenanza Nº6277/22
+Ordenanza Nº 6277/22
+Pinamar, 14/10/2022
+VISTO: El Expediente Nº 4123-1898/22 Cpo. 1 caratulado Convenio De Colaboración – Instituto Universitario River Plate; Y CONSIDERANDO: Que el convenio marco de cooperación entre el Instituto Universitario River Plate y la Municipalidad de Pinamar, identificado bajo el número 1898/2022 para la puesta en marcha de acciones conjuntas de ambas instituciones. Que corre agregado copia del mismo en fs. 2, 3 y 4. Que corresponde homologar el vínculo contractual. Que teniendo como objetivo establecer un programa de colaboración reciproca para trabajar en forma conjunta, en todo lo relativo a proyectos y programas que contribuyan al desarrollo académico y profesional en la comunidad. Que en la actualidad es de gran importancia promover la llegada de nuevas instituciones de la educación para promover la formación de los vecinos, la investigación y la extensión universitaria en el Partido de Pinamar. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6277/2022
+ORDENANZA
