@@ -1,0 +1,5 @@
+Ordenanza Nº6439/2023
+Ordenanza Nº 6439/2023
+Pinamar, 28/04/2023
+VISTO: El Expediente 4123-2654/22 Cpo.1 caratulado “HOSPITAL COMUNITARIO - ACEPTACIÓN DONACIÓN HOSPITAL ITALIANO”; Y CONSIDERANDO: Que el mismo se refiere a la donación efectuada por el Hospital Italiano, a esta Municipalidad de Pinamar, que consiste en elementos varios para el normal funcionamiento del Hospital Comunitario Municipal; Que el detalle del equipamiento donado, se encuentra descripto en la parte dispositiva de la presente; Que en folio 35 la Secretaría de Salud solicita la aceptación del equipamiento, dando continuidad para tal fin al circuito administrativo correspondiente; Que de acuerdo a lo informado por las dependencias con competencia en el tema, se torna necesaria la confección del acto administrativo de aceptación, conforme lo establece el Artículo 57 de la Ley Orgánica de las Municipalidades. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6439/2023
+ORDENANZA
