@@ -1,0 +1,5 @@
+Ordenanza Nº6480/2023
+Ordenanza Nº 6480/2023
+Pinamar, 07/07/2023
+VISTO: El Expte Interno N° 0899/02 Cpo.7, Caratulado: Asociación de taxis de Pinamar, Solicitan modificación ordenanza y; CONSIDERANDO: Que mediante Ordenanza 6428/23 el Honorable Concejo Deliberante autoriza al Departamento Ejecutivo a prorrogar por el termino de un año, todas aquellas "Licencias" con vencimiento 2023; Que dicha redacción debería decir "unidades" en vez de "licencias", debido a que son las unidades, no las licencias, las que poseen vencimiento; Que la Ordenanza 6465/23 autoriza al Departamento Ejecutivo a establecer facilidades de pago a los propietarios de las Licencias de Taxi otorgadas por Ordenanzas 6335/22, pero cuenta con un error involuntario de tipeo en la redacción, en la cantidad de cuotas por periodo y los años consignados. Que por lo expuesto resulta necesaria la modificación de la redacción de ambas ordenanzas. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6480/2023
+ORDENANZA
