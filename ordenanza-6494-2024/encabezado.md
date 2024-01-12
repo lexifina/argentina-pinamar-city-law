@@ -1,0 +1,5 @@
+Ordenanza Nº6494/2023
+Ordenanza Nº 6494/2023
+Pinamar, 21/07/2023
+VISTO: El Expediente N° 4123-409/08 Caratulado: "Regulación deportes de Navegación a vela y circulación de artefactos náuticos" y CONSIDERANDO: Que fuera de la temporada estival muchos habitantes de nuestra comunidad practican la actividad de Kayaks en el frente costero Pinamarense. Que la actividad crece año a año y se hace necesario regular la misma a través de la creación de un registro de ingreso y egreso de los navegantes el cual tiene como objeto la seguridad de los mismos. Que dicho registro será optativo y no obligatorio pero la inscripción sin dudas será de suma importancia para prevenir cualquier tipo de incidentes para los practicantes de la actividad de kayak y terceros Que es deber de este cuerpo deliberativo promover políticas publicas tendientes a garantizar la seguridad de nuestros habitantes. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6494/2023
+ORDENANZA
