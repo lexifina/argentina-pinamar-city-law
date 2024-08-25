@@ -1,0 +1,5 @@
+Ordenanza Nº6569/2023
+Ordenanza Nº 6569/2023
+Pinamar, 24/11/2023
+VISTO: El Expediente Interno Nº 0899/02 Cpo. 7, caratulado ASOCIACION DE TAXIS DE PINAMAR-SOLICITAN MODIFICACION ORDENAZA y; CONSIDERANDO: Que el Servicio de Taxis de Pinamar requiere una normativa actualizada para brindar mejor servicio a la Comunidad y que para ello es necesario realizar un digesto de las normativas que regulan la actividad de Taxis en Pinamar Que la Asociación de Taxis de Pinamar ha participado de manera conjunta en la elaboración del proyecto, quienes aportaron datos estadísticos sobre la problemática que hoy está atravesando la falta de vehículos para el servicio Que en Comisión extraordinaria de Planeamiento, obrante en acta N° 36, se reunieron miembros del Departamento Ejecutivo, la Asociación de Taxis y concejales para modificar la cantidad de paradas de Taxi en el Partido de Pinamar; Que la Comisión de Planeamiento entiende necesario, preciso actualizar y unificar criterios de la Norma actual; POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6569/2023
+ORDENANZA
