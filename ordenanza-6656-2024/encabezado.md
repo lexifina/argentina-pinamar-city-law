@@ -1,0 +1,5 @@
+Ordenanza Nº6656/2024
+Ordenanza Nº 6656/2024
+Pinamar, 17/05/2024
+VISTO: El Expediente Interno Nº 1822/14 Cpo 3. Caratulado: Ordenanza Remises, y CONSIDERANDO: Que la Sra Lezcano presenta Nota en Fs 493 en el Departamento Ejecutivo, solicitando una prorroga para su agencia; Que dicha solicitud es en virtud de la Ordenanza Nº 3169/04 Art. 5 donde requiere un minimo de 2 (dos) vehiculos para su habilitación; Que la solicitante explica que dio de baja un vehículo Fiat Palio 2015, ya que consideraba que el mismo no contaba con las exigencias mínimas para dar servicio; Que la solicitante adjunta información a Fs,494 sobre el vehículo SANDERO Life 1.6 que esta por ser adjudicado desde el mes de diciembre; Que la Agencia By Power se encuentra habilitada y actualmente con mas de diez vehículos trabajando de forma regular; Que la Comisión de Planeamiento, Obras y Servicios Públicos considera oportuno y conveniente otorgarle un plazo para continuar con su actividad POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6656/2024
+ORDENANZA
