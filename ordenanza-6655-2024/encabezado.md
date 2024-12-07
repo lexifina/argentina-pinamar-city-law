@@ -1,0 +1,5 @@
+Ordenanza Nº6655/2024
+Ordenanza Nº 6655/2024
+Pinamar, 18/05/2024
+VISTO: El Expediente Nº 4123-0872/24 Cpo.1 caratulado: "CONVENIO CON UNIVERSIDAD DE LA MARINA MERCANTE" ; Y CONSIDERANDO: Que a fs. 46 a 53 del expediente del visto, obra el convenio específico entre el la Universidad de la Marina Mercante y el Municipio de Pinamar. Que en dicho convenio la Universidad se compromete a ofrecer a la comunidad carreras de Pre Grado, Grado y Posgrado con el fin de impulsar el desarrollo cultural, educativo y comunitario; Que a fs. 14 obra dictamen del área de Asesoría letrada Que el 15 de mayo del corriente, en Comisión de Interpretación de Asuntos legales se recibió a la Secretaria de Cultura y Educación Sra Alejandra Apolonio y se trató propuesta del convenio marco a celebrar entre la Municipalidad de Pinamar y la Universidad Que corresponde realizar el acto administrativo que legitime la presente. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6655/2024
+ORDENANZA
