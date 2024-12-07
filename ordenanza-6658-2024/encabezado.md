@@ -1,0 +1,5 @@
+Ordenanza Nº6658/2024
+Ordenanza Nº 6658/2024
+Pinamar, 17/05/2024
+VISTO: El Expediente 4123-1171/24 Cuerpo 1, caratulado “INCORPORACION AL PATRIMONIO MUNICIPAL ESPACIO DE LAS INFANCIAS”; CONSIDERANDO: Que el mismo se refiere a la donación efectuada a la institución “Espacio de las Infancias” dependiente de la Secretaria de Desarrollo Humano de la Municipalidad de Pinamar, que consiste en 1 (un) equipo, fotocopiadora Marca RICOH Modelo Oficio MP 1500; Que el detalle del equipamiento donado, se encuentra descripto en la parte dispositiva de la presente; Que en folio 8 la Secretaria de Desarrollo Humano solicita la aceptación del equipamiento, dando continuidad para tal fin al circuito administrativo correspondiente; Que de acuerdo a lo informado por las dependencias con competencia en el tema, se torna necesaria la confeccion del acto administrativo de aceptación, conforme lo establece el Articulo 57 de la Ley Organica de las Municipalidades. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6658/2024
+ORDENANZA
