@@ -1,0 +1,5 @@
+Ordenanza Nº6624/2024
+Ordenanza Nº 6624/2024
+Pinamar, 15/03/2024
+VISTO: El Expediente Nº 4123-0568/17 Cuerpo 10 Alc. 1 caratulado "HOSPITAL COMUNITARIO DE PINAMAR INCORPORACION AL SAMO – ANEXO 1"; y: CONSIDERANDO: Que por Ordenanza 5043/17 se autoriza al Departamento Ejecutivo a la adhesión al SISTEMA DE ATENCION ORGANIZADA (S.A.M.O.) y por Decreto 1933/17 se promulga dicha normativa; Que en este caso puntual, al tratarse de montos a abonar al personal de la Secretaria de Salud, por ejercicios vencidos (meses de Agosto, Septiembre, Octubre, Noviembre y Diciembre del 2023), conforme Art. 140 del Reglamento de Contabilidad y Disposiciones de Administración, debe darse intervención al Honorable Concejo Deliberante (HCD), para su debido tratamiento y, si correspondiere, la autorización de pago; Que en fs. 1937, el Departamento Ejecutivo ordena la confección del presente. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6624/2024
+ORDENANZA
