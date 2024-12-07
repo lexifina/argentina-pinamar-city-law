@@ -1,0 +1,5 @@
+Ordenanza Nº6632/2024
+Ordenanza Nº 6632/2024
+Pinamar, 05/04/2024
+VISTO: El Expediente Nº 4123-2874/2023 Cpo. 1 caratulado: PRIMERA ESTACION DE CARGA ELECTRICA PINAMAR CONSIDERANDO: Que en el Expediente del Visto, la Cooperativa de Agua y Luz Pinamar (CALP Ltda.) presenta una solicitud para llevar a cabo la instalación de la 1° Estación de Carga Eléctrica Automotriz Gratuita de Pinamar - "PINAMAR ENERGIA" para la temporada 2023/2024. Que el Decreto incluye la instalación de un stand de carga eléctrica en inmediaciones de la calle Av. Bunge y Sirena de la localidad de Pinamar, con marcas publicitarias, solicitando su declaración como actividad de interés municipal. Que por el Decreto Nº 0164/2024, obrante a Fs. 50 y 51, el Departamento Ejecutivo solicita eximir del pago de tributos municipales de publicidad y ocupación de espacio público para la realización del evento. Que el presente decreto se celebra ad - referendúm del Honorable Concejo Deliberante, tal como lo dispone el Artículo 3º del mismo. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6632/2024
+ORDENANZA
