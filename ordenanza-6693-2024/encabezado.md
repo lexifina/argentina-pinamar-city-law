@@ -1,0 +1,5 @@
+Ordenanza Nº6693/2024
+Ordenanza Nº 6693/2024
+Pinamar, 28/06/2024
+VISTO: El Expediente Interno N° 2646/23, caratulado "Gloria Martinez Fretes solicita permiso precario", y; CONSIDERANDO: Que por Nota N° 3304/23, la Sra. Gloria Lorena Martínez Fretes, DNI 39.461.040, solicita un permiso para la habilitación de despensa-almacén en su domicilio sito en calle Dakar N° 2224 de la localidad de Ostende. Que a fs. 15 luce informe Socioeconómico y Ambiental, dictaminando que la familia, depende económicamente del kiosco y que la abuela de la familia padece de Parkinson. Que a fs. 23 luce dictamen de la Secretaria de Gobierno indicando que el comercio cumple con los requisitos para la habilitación. que la Comisión de Planeamiento, Obras y Servicios Públicos luego de dar lectura al dictamen de en relacion a la comunicacion N° 4090/23 , deciden otorgar lo solicitado obrante en acta N° 0015/24 POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6693/2024
+ORDENANZA
