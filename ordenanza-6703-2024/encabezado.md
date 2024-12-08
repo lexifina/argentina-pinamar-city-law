@@ -1,0 +1,5 @@
+Ordenanza Nº6703/2024
+Ordenanza Nº 6703/2024
+Pinamar, 17/07/2024
+STO: El Expediente 4123-0122/24, Cpo 1 y Cpo 2, Caratulado “ RECOLECCION Y TRATAMIENTO DE RESIDUOS PATOGENICOS” ; y CONSIDERANDO: Que por el Decreto 0869/2024 se adjudicó la Licitación Privada N°03/2024 para la contratación de recolección y tratamiento de residuos patogénicos para la Secretaría de Salud; Que cotizo solamente un oferente, tal como traduce la providencia de folio 186 y 186 vuelta emitida por la Dirección de Contrataciones en forma conjunta con la Secretaría de Salud y la Secretaría de Hacienda; Que lo expuesto amerita la pronta aplicación de lo dispuesto por el Articulo 155 de la Ley Orgánica de las Municipalidades y 187 del Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades, en consonancia con lo expuesto en el informe de fs. 186 vuelta. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6703/2024
+ORDENANZA
