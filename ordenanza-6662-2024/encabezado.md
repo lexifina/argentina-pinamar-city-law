@@ -1,0 +1,5 @@
+Ordenanza Nº6662/2024
+Ordenanza Nº 6662/2024
+Pinamar, 17/05/2024
+VISTO: El Expediente Interno Nº 4123-2698/24, Cpo. 1 y Cpo. 2, caratulado "NICANOR FLORES – SOLICITA EXENCION Y CONDONACION" Y; CONSIDERANDO: Que por Nota Nº 3445/24 el Señor Nicanor Flores, DNI 39.163.249 co-titular de la vivienda compartida con Olivera Nogales Maria Eusebia ubicada en calle Urtubey 2641de la localidad de Valeria del Mar, solicita condonación de deuda y exención en el pago de Tasas Municipales; Que a Fs. 8 luce Certificado de discapacidad; Que a Fs. 213/214 cuenta con un informe socio ambiental en el domicilio del peticionario; Que Asesoría Letrada no encuentra objeciones para el otorgamiento del beneficio en cuestión; Que la Secretaria de Hacienda y Desarrollo Económico, solicita la confección del Acto Administrativo correspondiente; Que analizado el expediente en la Comisión de Presupuesto Acta Nº 10/24 se decide otorgarle el beneficio; POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6662/2024
+ORDENANZA
