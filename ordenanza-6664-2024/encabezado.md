@@ -1,0 +1,5 @@
+Ordenanza Nº6664/2024
+Ordenanza Nº 6664/2024
+Pinamar, 17/05/2024
+VISTO: El Expediente Nº 4123-1863/23, Cpo. 1, caratulado "SECRETARIA DE SALUD / FUNDACION DON SILVIO MACCHIAVELLO – DONACION ECOGRAFO" Y; CONSIDERANDO: Que el mismo tramita la donación a esta Municipalidad de Pinamar de parte de la Fundación Dr. Silvio Sebastian Macchiavello, de (5) TRANSDUCTORES marca PHILIPS, los que en la parte dispositiva de la presente se detallan, para destinar al uso del ecógrafo anteriormente donado al Hospital Comunitario de Pinamar, para la prevención de patologías oncológicas y tratamientos oportuno de las mismas; Que por el Departamento de Patrimonio se debe proceder a la incorporación del bien enunciado al inventario de esta Comuna; Que se debe confeccionar el acto administrativo aceptando la donación en cuestión, conforme lo establece el Articulo 57º de la Ley Orgánica de las Municipalidades; POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6664/2024
+ORDENANZA
