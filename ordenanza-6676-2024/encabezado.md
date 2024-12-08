@@ -1,0 +1,5 @@
+Ordenanza Nº6676/2024
+Ordenanza Nº 6676/2024
+Pinamar, 31/05/2024
+VISTO: El Expediente 4123-0239/09 Cpo. 1 Caratulado: “MARIA NOEMI FILIPPI-PLAN DE PAGO PDA 35650” (que se encuentra en el Departamento Ejecutivo) Y: CONSIDERANDO: Que por Nota Nº3477/24 la Señora María Noemí Filippi DNI 0.932.338 solicita condonación y eximición de las Tasas Municipales y sus Anexos de su inmueble ubicado en la calle Intermédanos 252 casa 58, Partida Nº 35650 , Nomenclatura Catastral 4-V-3-0-138-9 U.F. 0000, del partido de Pinamar. Que por Ordenanza Nº 6021/2021 se le condonó y eximió las Tasas Municipales y sus Anexos por el ejercicio 2021. Que analizadas las actuaciones del Expediente del visto, las notas presentadas y realizado el tratamiento en comisión, este Honorable Cuerpo cree oportuno y conveniente avanzar en la condonación y eximición por el ejercicio 2024 a favor de la contribuyente. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6676/2024
+ORDENANZA
