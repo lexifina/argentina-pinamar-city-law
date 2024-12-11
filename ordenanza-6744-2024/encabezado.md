@@ -1,0 +1,5 @@
+Ordenanza Nº6744/2024
+Ordenanza Nº 6744/2024
+Pinamar, 04/10/2024
+VISTO: El Expediente Nº 4123-1304/05 Cpo. 1 Alc. 1 Caratula: Asociación diabéticos Pinamar y CONSIDERANDO: Que a fs 42 del Expediente del visto obra convenio marco N 112/23 firmado entre la Municipalidad de Pinamar y la señora Roldan María Teresa en representación de la Asociación Diabéticos Pinamar. Que se debe dar continuidad con la ocupación del predio ubicado en la Circ IV Secc. C Manzana 209 en donde funciona la sede de la asociación. Que seguir contando con el predio permitiría la continuidad de la labor que se lleva adelante. Que en virtud de lo expuesto resulta imprescindible, para cumplir con los objetivos propuestos, efectivizar el compromiso institucional por parte de este Honorable Cuerpo y conferir el permiso de ocupación gratuito en el marco de lo dispuesto en el artículo 56 de la ley orgánica de las municipalidades. POR ELLO: El Honorable Concejo Deliberante de Pinamar, en uso de facultades que le son propias sanciona la siguiente: ORDENANZA Nº 6744/2024
+ORDENANZA
