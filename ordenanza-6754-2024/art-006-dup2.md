@@ -1,0 +1,1 @@
+ARTICULO 6: Orden de las exposiciones: la exposición comenzará con la intervención de los representantes del concesionario "Empresa 12 de octubre S.R.L". seguidamente intervendrán los participantes, cuyo orden de exposición quedará establecido conforme a su inscripción en las planillas.
