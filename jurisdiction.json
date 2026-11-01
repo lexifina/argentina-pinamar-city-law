@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-pinamar",
+  "code": "AR-B-PINAMAR",
+  "name": "Pinamar",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-pinamar-city-law",
+  "build": "built: municipal ordinances (203 ordinances, 203 versions) from https://sibom.slyt.gba.gob.ar/cities/97",
+  "language": "es",
+  "sources": 1
+}

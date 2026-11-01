@@ -1,0 +1,2847 @@
+{
+ "country": "AR-B-PINAMAR",
+ "acts": [
+  {
+   "slug": "ordenanza-4971-2017",
+   "short": "Ordenanza 4971/2017",
+   "title": "Ordenanza 4971/2017: Convalidase el Decreto Nº 0271/17 por medio del cual se exime a la Asociación Atletas Master de Pinamar (A.A.M.PI), entidad de bien público, del pago de los cánones y demás tributos correspondientes por la realización de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/139/contents/1138179",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/139/contents/1138179",
+     "sha256": "c11ce72993609d8fe0dd7f1d21da40c262f481232ede79b54318553c0b308e5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4976-2017",
+   "short": "Ordenanza 4976/2017",
+   "title": "Ordenanza 4976/2017: Prorrógase por última vez y hasta el 31/03/2018 los plazos conferidos por el Articulo 39 de la Ordenanza Nº 3628/08 y modificatoria, para la renovación de los vehículos que presten servicios de Taxi, exceptuando de este ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/139/contents/1138185",
+   "versions": [
+    {
+     "from": "2017-05-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/139/contents/1138185",
+     "sha256": "c1d89469efe54d4fe0b0571b1a1c485867b1f0d9764c218914aacdbb914a64d8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4995-2017",
+   "short": "Ordenanza 4995/2017",
+   "title": "Ordenanza 4995/2017: Autorizase a la firma del Acta de Adhesión al Programa de Operadores en Calle entre el Organismo Provincial de la Niñez y Adolescencia de la Provincia de Buenos Aires y la Municipalidad de Pinamar, obrante a fs. 14/16 de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/188/contents/1142481",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/188/contents/1142481",
+     "sha256": "f8d6fa6a3be392c71ea1e2f18f32e2cf9cd0d40e85c05d6f967ac56c336b2dea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4999-2017",
+   "short": "Ordenanza 4999/2017",
+   "title": "Ordenanza 4999/2017: Homologase el Convenio de complementación de Servicios entre el Ministerio de Justicia y Derechos Humanos y la Municipalidad de Pinamar y el Acta Acuerdo celebrada entre la Asociación de Concesionarios de Automotores de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/206/contents/1144627",
+   "versions": [
+    {
+     "from": "2017-07-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/206/contents/1144627",
+     "sha256": "efd7db61147ee94d43d1d959a50c28ae61abe7f748108e6404a22b7b0aed644c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5018-2017",
+   "short": "Ordenanza 5018/2017",
+   "title": "Ordenanza 5018/2017: Autorícese al Departamento Ejecutivo a la suscripción de los Convenios Marco glosados a fs. 2/14 (que se agrega a la presente como Anexo I) para la realización de las obras públicas de infraestructura proyectadas para la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/249/contents/1149030",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/249/contents/1149030",
+     "sha256": "eb5fa6ddaa1f899d11e9c4657346fc5b6b5047cfbebf6305eea67e4f12539bcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5021-2017",
+   "short": "Ordenanza 5021/2017",
+   "title": "Ordenanza 5021/2017: Apruebase a partir del 01 de enero de 2017 el Presupuesto de Gastos y Cálculo de Recursos 2017 por un total de PESOS SETECIENTOS CUARENTA Y OCHO MILLONES DOSCIENTOS DOS MIL DOSCIENTOS SESENTA Y NUEVE ($748.202.269) cuyo ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/249/contents/1149044",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/249/contents/1149044",
+     "sha256": "c62fb2fd30c6036b426ad40a006dd05afce0f3cbcf605e32e5e07dec547c2b9d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5022-2017",
+   "short": "Ordenanza 5022/2017",
+   "title": "Ordenanza 5022/2017: Homologase el Convenio de Cooperación y Financiación para la Ejecución de la Obra Centralidad Pinamar celebrado entre la Secretaría de Obras Públicas del Ministerio del Interior, Obras Públicas y Vivienda de la Nación y ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/249/contents/1149048",
+   "versions": [
+    {
+     "from": "2017-08-10",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/249/contents/1149048",
+     "sha256": "8810fe91472f6af416806262a6ff6374afee3e2476f0a712be7d025c9cfcdcbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5034-2017",
+   "short": "Ordenanza 5034/2017",
+   "title": "Ordenanza 5034/2017: Acéptase la donación efectuada por la Sociedad del Estado Subterráneos de Buenos Aires, dependiente del Ministerio de Desarrollo Urbano y Transporte del GCABA, que consiste en trescientos (300) durmientes de quebracho, q",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/339/contents/1158010",
+   "versions": [
+    {
+     "from": "2017-09-16",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/339/contents/1158010",
+     "sha256": "7e92f561fefe7989e1f52b5144141c60c8e92205d00a435903502fcf9e12add0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5043-2017",
+   "short": "Ordenanza 5043/2017",
+   "title": "Ordenanza 5043/2017: Autorízase al Departamento Ejecutivo a la Adhesión al Sistema de Atención Médica Organizada S.A.M.O.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/339/contents/1158024",
+   "versions": [
+    {
+     "from": "2017-09-16",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/339/contents/1158024",
+     "sha256": "ef0b24cd1ea9c005e7877112b9564bfb9f576a2ab056395fa5c5f99a81962762"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5073-2017",
+   "short": "Ordenanza 5073/2017",
+   "title": "Ordenanza 5073/2017: Insístase en todos sus términos la Ordenanza Nº 5046/17.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/480/contents/1169458",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/480/contents/1169458",
+     "sha256": "184856c77f7b6d16340b50f43b0c733748fc151a12ab16b3af166b8229fb5f77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5076-2017",
+   "short": "Ordenanza 5076/2017",
+   "title": "Ordenanza 5076/2017: Autorícese al Departamento Ejecutivo a disponer del espacio público para realizar un evento gastronómico, cumpliendo con todas las normativas vigentes a realizarse en el mes de Septiembre en el estacionamiento del parado",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/480/contents/1169460",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/480/contents/1169460",
+     "sha256": "bb3846085802f3da0e354cfd80bf5807c203d633e99e8a52fbf0df10c1e0c4e3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5077-2017",
+   "short": "Ordenanza 5077/2017",
+   "title": "Ordenanza 5077/2017: Modifícase del Anexo I el Artículo 22 de la Ordenanza Municipal Nº 3980/12, de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/480/contents/1169462",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/480/contents/1169462",
+     "sha256": "b29f9ebe449b3fa9fc8d91c908b2aec23db14c42d5cbd1b4d366a27e3d1cf08c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5090-2017",
+   "short": "Ordenanza 5090/2017",
+   "title": "Ordenanza 5090/2017: Autorízase al Departamento Ejecutivo a firmar convenios para la creación de un Consorcio con otros Municipios y/o una o varias personas de existencia ideal de carácter privado o público, con el objeto de instalar un Cent",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/538/contents/1174855",
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/538/contents/1174855",
+     "sha256": "bead5959e513bf62d41a307864a0f0a4d59201c542e9b7eda21b1d8277147d60"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5091-2017",
+   "short": "Ordenanza 5091/2017",
+   "title": "Ordenanza 5091/2017: Autorícese al Departamento Ejecutivo a disponer del espacio público ubicado en Av. del Mar y Martin Pescador para realizar la \"Fiesta del Poseidón\", cumpliendo con todas las normativas vigentes, a realizarse los días 14 ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/538/contents/1174860",
+   "versions": [
+    {
+     "from": "2017-12-16",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/538/contents/1174860",
+     "sha256": "0c697f883305c2c3f1b1d91aafd713bf5941835ed59bd8335e5e6b56bca802b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5127-2018",
+   "short": "Ordenanza 5127/2018",
+   "title": "Ordenanza 5127/2018: Modifiquese al Artículo 5 Apartado I) de la Ordenanza Nº 4675/15 Rubros Alimentarios, unificando Inciso e) y h), e incorporando la categoría chipa, quedando redactado el Rubro Alimenticio de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/683/contents/1186882",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/683/contents/1186882",
+     "sha256": "7a264db05e495bc8748d86f3c1fb06d181b0da99a5ab236cd2fbf3fbc94b3c5f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5129-2018",
+   "short": "Ordenanza 5129/2018",
+   "title": "Ordenanza 5129/2018: Autorícese al Señor Guillermo López DNI 20.946.330, a ocupar un total de (noventa) 90 metros cuadrados del espacio público ubicado entre el restaurant El Derroche y McDonald?s, para emplazar un tráiler radio móvil, desde",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/683/contents/1187014",
+   "versions": [
+    {
+     "from": "2018-02-08",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/683/contents/1187014",
+     "sha256": "c44f25d6ae7bd19bc7ff84df01009fd1e3f6a029665c6a6a968780638696dc63"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5164-2018",
+   "short": "Ordenanza 5164/2018",
+   "title": "Ordenanza 5164/2018: Apruébase un aumento del veinte por ciento (20%) en el Cuadro Tarifario para el Servicio de Transporte Urbano del Partido de Pinamar que presta Montemar SRL, con los importes y secciones que entrarán en vigencia a partir",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/836/contents/1199853",
+   "versions": [
+    {
+     "from": "2018-04-15",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/836/contents/1199853",
+     "sha256": "cb6c46c3ae4b40680534783a5b6dcc18afdf174c402f9b1438d57c7eca45f2b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5166-2018",
+   "short": "Ordenanza 5166/2018",
+   "title": "Ordenanza 5166/2018: Insístase en todos sus términos la Ordenanza Nº 5124/17",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/836/contents/1199855",
+   "versions": [
+    {
+     "from": "2018-04-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/836/contents/1199855",
+     "sha256": "800b8499e19642804e9b2ff5af1bb614da65c11cd33472e82a040f8a89cb9ef0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5175-2018",
+   "short": "Ordenanza 5175/2018",
+   "title": "Ordenanza 5175/2018: Homologase el Convenio entre el Ministerio de Desarrollo Social de la Nación y la Municipalidad de Pinamar (que se agrega como Anexo N° 1), identificado bajo el número 49/18, obrante en fs. 36/39 del Expediente Nº 4123-0",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/970/contents/1211563",
+   "versions": [
+    {
+     "from": "2018-05-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/970/contents/1211563",
+     "sha256": "11ca3dbc178acf68acd5b26b54d864c11ea7f617ecb02a5cdc8da65512ab2e42"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5180-2018",
+   "short": "Ordenanza 5180/2018",
+   "title": "Ordenanza 5180/2018: Autorícese al Departamento Ejecutivo a disponer del espacio público con \"Food Trucks\" ubicado en Av. Bunge esquina Marco Polo, (por única vez) para realizar el evento FESTIVAL DE CINE FANTASTICO Y DE TERROR \"BLOOD WINDOW",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/970/contents/1211572",
+   "versions": [
+    {
+     "from": "2018-05-27",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/970/contents/1211572",
+     "sha256": "24e65b186b8315c738f25eb410b1948b30dee2b4e1c728da6095e67412a06b36"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5181-2018",
+   "short": "Ordenanza 5181/2018",
+   "title": "Ordenanza 5181/2018: Autorícese al Departamento Ejecutivo a disponer del espacio público con \"Food Trucks\" ubicado en Av. Bunge esquina Camino de los Pioneros, para realizar el evento \"Finde en el Bosque\" cumpliendo con todas las normativas ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1134/contents/1226716",
+   "versions": [
+    {
+     "from": "2018-07-25",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1134/contents/1226716",
+     "sha256": "839f20848b5d17f573b8b8da7abcd28087cf4be037b087f6374044fe8d2969f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5182-2018",
+   "short": "Ordenanza 5182/2018",
+   "title": "Ordenanza 5182/2018: Declarar la Emergencia Tarifaria en materia de servicios públicos de distribución eléctrica, redes de agua potable y servicio de gas natural en el Municipio de Pinamar por el lapso de 1 (un) año a partir de la sanción de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1134/contents/1226770",
+   "versions": [
+    {
+     "from": "2018-07-25",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1134/contents/1226770",
+     "sha256": "5e7d143083f4a25c4dc3c80c1bc11bfb72f014960e033628d667d77e010abc6d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5206-2018",
+   "short": "Ordenanza 5206/2018",
+   "title": "Ordenanza 5206/2018: Autorizase al Departamento Ejecutivo a incrementar hasta un veinte por ciento (20%) del valor previsto en el Convenio N° 137/17, el Boleto Estudiantil Gratuito para el ciclo lectivo 2018.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1134/contents/1227716",
+   "versions": [
+    {
+     "from": "2018-07-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1134/contents/1227716",
+     "sha256": "b7e821679f8007d6b34d00ecc5f8de223fd8e0cdfac323a52c60e3e3acaec245"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5211-2018",
+   "short": "Ordenanza 5211/2018",
+   "title": "Ordenanza 5211/2018: Convalidase en todos sus términos el Decreto Nº 1074/18 conforme lo establecido en el Artículo 2 del acto administrativo citado.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1274/contents/1238656",
+   "versions": [
+    {
+     "from": "2018-09-05",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1274/contents/1238656",
+     "sha256": "633a36ff07ab2211e1475e30b448a92d066bf0717709ea3bfc497884045cb933"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5224-2018",
+   "short": "Ordenanza 5224/2018",
+   "title": "Ordenanza 5224/2018: Autorizase al Consorcio de Copropietarios Marbella I y Marbella II a la realización de una rampa que garantice la plena accesibilidad al edificio conforme croquis de fs. 4, y que la misma sea realizada en materiales livi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1403/contents/1249753",
+   "versions": [
+    {
+     "from": "2018-10-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1403/contents/1249753",
+     "sha256": "c68a8bce469cfa839af6258cb8455e49b2c47cdb512afaa9966b083c6e76cbd0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5242-2018",
+   "short": "Ordenanza 5242/2018",
+   "title": "Ordenanza 5242/2018: Homologase el Convenio entre la Provincia de Buenos Aires y la Municipalidad de Pinamar, para la implementación del Proyecto de Protección de la Población Vulnerable Contra Enfermedades Crónicas no Trasmisibles, identifi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1450/contents/1251724",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1450/contents/1251724",
+     "sha256": "70164c0213d9df6ca6408ca6409dd03c0a0c4c45b36d11f237f23e864958bc30"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5247-2018",
+   "short": "Ordenanza 5247/2018",
+   "title": "Ordenanza 5247/2018: Declárese de interés Municipal la Actividad de Extensión denominada Alternativas de trabajo interdisciplinario con el sufrimiento mental, que se desarrollará los días 22 y 23 de Agosto entre las 17.00 y 20.00 horas en el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1450/contents/1251733",
+   "versions": [
+    {
+     "from": "2018-10-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1450/contents/1251733",
+     "sha256": "d6b59de448845744c2f5273bc2a027bb50996b7a2a2c5533870eb68bc78a1211"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5266-2018",
+   "short": "Ordenanza 5266/2018",
+   "title": "Ordenanza 5266/2018: Modifíquese el artículo 1° de la Ordenanza Nº 5126/17 que en lo pertinente modificó el artículo N° 246 texto conforme Ordenanza Nº 4943/17, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1554/contents/1261256",
+   "versions": [
+    {
+     "from": "2018-11-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1554/contents/1261256",
+     "sha256": "c2faffaadf9e7a54eb293e7ec11ebdd0cea33d10899a9508c955f29e878fde9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5298-2019",
+   "short": "Ordenanza 5298/2019",
+   "title": "Ordenanza 5298/2019: Créase el Programa: Calles Recreativas, el que tendrá por objetivo principal el fomento de actividades deportivas, recreativas, culturales y de esparcimiento.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1973/contents/1301488",
+   "versions": [
+    {
+     "from": "2019-03-09",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1973/contents/1301488",
+     "sha256": "c13c0ee9cd04d8c46154d9aa59e85086b98781d128719f740b93cd02d2e7d700"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5309-2019",
+   "short": "Ordenanza 5309/2019",
+   "title": "Ordenanza 5309/2019: ADHESION: Adhiérase el Municipio del Partido de Pinamar a la Ley Nacional de Transito N° 24.449, Ley Provincial de Transito 13.927, ambas con sus respectivas modificaciones; Circulares 9, 10 y 11 de la ANSV dependiente d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1998/contents/1303936",
+   "versions": [
+    {
+     "from": "2019-03-16",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1998/contents/1303936",
+     "sha256": "061e1093e9d552887c4a369f122309b305fbf44dde175777e931a9a6ede4a3ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5318-2019",
+   "short": "Ordenanza 5318/2019",
+   "title": "Ordenanza 5318/2019: Modifícase el Artículo 134 del Código Tributario (Texto Conforme Ordenanza Nº 4780/16), al que se incorporará como primer párrafo, el siguiente:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1998/contents/1303948",
+   "versions": [
+    {
+     "from": "2019-03-16",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1998/contents/1303948",
+     "sha256": "c27819d56de8c4b2402e7b2daa2564eb0970300e095a4fab5910554447dfa760"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5357-2019",
+   "short": "Ordenanza 5357/2019",
+   "title": "Ordenanza 5357/2019: Homologase el Convenio entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de Pinamar, identificado con el número de registro 264/18 obrante a fs. 02/07 del Expe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2186/contents/1322430",
+   "versions": [
+    {
+     "from": "2019-05-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2186/contents/1322430",
+     "sha256": "b010d5d6c098389a8580caca38da02e96d2bd1e0376f2914d6e0560327ae037a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5386-2019",
+   "short": "Ordenanza 5386/2019",
+   "title": "Ordenanza 5386/2019: Autorizase el referendo del Proyecto de Convenio obrante en el folio 04/21 del Expediente Nº 4123-0149/19, cuyo objeto es asegurar, en el marco de la Cobertura Universal de Salud, el fortalecimiento del primer nivel de a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1353991",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1353991",
+     "sha256": "577b47befcad3e7cc474a826f6eb0188a9d1f149238b41383a7f36566a60e48f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5393-2019",
+   "short": "Ordenanza 5393/2019",
+   "title": "Ordenanza 5393/2019: Declárese de Interés Municipal el evento denominado ENCUENTRO DE MUJERES FUERTES, EMPODERADAS Y TRANSFORMADORAS organizado por Verdaderos Orígenes el pasado viernes 8 de marzo de 2019, en el marco del Día Internacional d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1354008",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1354008",
+     "sha256": "a83427a3d15692663a1e8f27645fea728027c7f88662764d29be85aa3e56fb9c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5394-2019",
+   "short": "Ordenanza 5394/2019",
+   "title": "Ordenanza 5394/2019: Autorizase al Departamento Ejecutivo a la suscripción de un Convenio con la Empresa Montemar S.R.L para la continuidad del Boleto Estudiantil gratuito para el ciclo lectivo 2019 conforme las pautas que se establecen en l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1354006",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1354006",
+     "sha256": "44999697e970349d4e01a9984721f18575bb25b8963e811edec672fc460ef123"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5403-2019",
+   "short": "Ordenanza 5403/2019",
+   "title": "Ordenanza 5403/2019: Declárese de Interés Patrimonial, según lo estipulado por la Ordenanza Nº 2392/99, al edificio de la Casa Robette, ubicado en la localidad de Ostende, en el lote designado catastralmente como Circunscripcion IV, Seccion ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1354045",
+   "versions": [
+    {
+     "from": "2019-08-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2474/contents/1354045",
+     "sha256": "054d8074bf755f4cea77449fe4442c7caebf6fa375573103115df89934ab0c05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5408-2019",
+   "short": "Ordenanza 5408/2019",
+   "title": "Ordenanza 5408/2019: La Junta Municipal de Defensa Civil con el Intendente Municipal como Presidente de la misma, y/o la Coordinadora de Defensa Civil como área específica de actuación, constitúyase en el órgano responsable de redactar el PL",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1381578",
+   "versions": [
+    {
+     "from": "2019-10-13",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1381578",
+     "sha256": "145ceeb67d45b3da5b103365cec2ef662d6dc9c6f66fc578d855213c9de4213c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5423-2019",
+   "short": "Ordenanza 5423/2019",
+   "title": "Ordenanza 5423/2019: Homológuese el convenio firmado entre la Municipalidad de Pinamar y el Instituto de Cine de Artes Audiovisuales (INCA), identificado bajo el N° 087/19 para la realización del FESTIVAL DE CINE FANTASTICO Y DE TERROR \"BLOO",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1381655",
+   "versions": [
+    {
+     "from": "2019-10-13",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1381655",
+     "sha256": "8289b347b5061d5d62b1e3dccdfd184786e8a9b14bfa4e7b3fbbd67357fa9fba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5432-2019",
+   "short": "Ordenanza 5432/2019",
+   "title": "Ordenanza 5432/2019: Declárese de Interés Municipal el evento denominado NO ME MATES organizado por Verdaderos Orígenes a realizarse el viernes 17 de mayo de 2019, en el marco de la concientización de la lucha contra la violencia de género y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1381686",
+   "versions": [
+    {
+     "from": "2019-10-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1381686",
+     "sha256": "14a0620efd80371b34f9b41d6b5be5c287bd266843c611f449dfe495cb93493b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5435-2019",
+   "short": "Ordenanza 5435/2019",
+   "title": "Ordenanza 5435/2019: Modifíquese el artículo N° 246 del Código Tributario (Ordenanza Nº 3062/03 y sus modif.) el que quedará redactado de la siguiente manera: \"Artículo 246: Fíjese el valor del módulo a partir del 1 de mayo del año 2019 en $",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1382392",
+   "versions": [
+    {
+     "from": "2019-10-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1382392",
+     "sha256": "5671b464c9a98849293192dac8feaf194b719727a86514d16d229e2b779ee2ab"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5436-2019",
+   "short": "Ordenanza 5436/2019",
+   "title": "Ordenanza 5436/2019: Modifiquese el articulo 42 del Titulo XVII del Consejo Asesor y Permanente de Cumplimiento de las Leyes Nº 11723, 12099 y 12704 del Anexo que forma parte de la Ordenanza Nº 3361/06 incorporandose \"a la Camara de Turismo ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1382394",
+   "versions": [
+    {
+     "from": "2019-10-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2707/contents/1382394",
+     "sha256": "6f31d2b3483adf7091d9cc9c529ce8f3ca5e7035b3641830db414bd6dc0b5732"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5488-2019",
+   "short": "Ordenanza 5488/2019",
+   "title": "Ordenanza 5488/2019: Facúltese al Departamento Ejecutivo a establecer facilidades de pago, a los Concesionarios de Playa, por las deudas que mantengan con el Municipio, en concepto de Canon de Playa y sus tasas anexas, únicamente por canon c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2814/contents/1392992",
+   "versions": [
+    {
+     "from": "2019-11-09",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2814/contents/1392992",
+     "sha256": "3e1bed1d03fa9edc9ad19045ceffe70b87ffcd5da4fed3b5b933e18adf6b8b55"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5499-2019",
+   "short": "Ordenanza 5499/2019",
+   "title": "Ordenanza 5499/2019: Aceptase la donación efectuada por la Secretaria General de la Presidencia de la Nación, a esta Municipalidad de Pinamar, que consiste en un (1) Cuatriciclo, modelo Hurraciane 200 cc. motor ZS163FML86A01185. Chasis CHZZ2",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2814/contents/1393000",
+   "versions": [
+    {
+     "from": "2019-11-09",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2814/contents/1393000",
+     "sha256": "bb0245843c2a0f2cbad77accba3c34eb4ff89fed109868910a9a23c01b6e5607"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5505-2019",
+   "short": "Ordenanza 5505/2019",
+   "title": "Ordenanza 5505/2019: Crease el programa \"Plazas Libres de Humo\" cuya finalidad es la regulación de los aspectos relativos al consumo del tabaco en los espacios abiertos determinados como plazas municipales y donde existan áreas de juegos par",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2814/contents/1393002",
+   "versions": [
+    {
+     "from": "2019-11-09",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2814/contents/1393002",
+     "sha256": "70dadc63c75ee02ec63bf5b7f541270a0cc7b1f17fb11cc9db20f8a5e5e58a06"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5513-2020",
+   "short": "Ordenanza 5513/2020",
+   "title": "Ordenanza 5513/2020: OBJETO: La presente Ordenanza tiene por objeto beneficiar a aquellas personas humanas o jurídicas que sean o no residentes, para la apertura de un comercio en el Partido de Pinamar y para aquellos que teniendo un comerci",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3104/contents/1417353",
+   "versions": [
+    {
+     "from": "2019-11-30",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3104/contents/1417353",
+     "sha256": "61cb8de98f545745fd67982ae225b7ba0a20944ef7cbb02c41d5162145e30d71"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5507-2020",
+   "short": "Ordenanza 5507/2020",
+   "title": "Ordenanza 5507/2020: Autorízase al Departamento Ejecutivo a permitir al Club de Pesca el acceso, estacionamiento y circulación de cuatriciclos y/o vehiculos automotores en el sector de playa , el dia 8 de septiembre de 2019 en el horario de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3104/contents/1417336",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3104/contents/1417336",
+     "sha256": "59d7207c88e7ab776ae0f470a182eac8dafc6ff7216f8c34cd69aeaad1eae7f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5625-2020",
+   "short": "Ordenanza 5625/2020",
+   "title": "Ordenanza 5625/2020: Designase como zonificación E1p a la parcela de 97.510,26m2 con medidas de 273.28m de ancho por 350.87m de largo, lindera a la ruta Interbalnearia y calle Martin Pescador, deslindada del remanente I\\/-W-109bu para ser af",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468693",
+   "versions": [
+    {
+     "from": "2020-07-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468693",
+     "sha256": "485dc0201a9f83bb7704d2cbec6aaec45175112573c09f4d132c97fc085ad336"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5660-2020",
+   "short": "Ordenanza 5660/2020",
+   "title": "Ordenanza 5660/2020: Declárese de Interés Municipal el evento denominado \"Jornada de la Mujer\" organizado por Verdaderos Orígenes a realizarse el viernes 13 de marzo de 2020 o para la fecha de su reprogramación, en el marco de la concientiza",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468712",
+   "versions": [
+    {
+     "from": "2020-07-26",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468712",
+     "sha256": "b08c3470536ac8b936142cf820e985cd5a81f00b7ce1561354a4a730a099c4e4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5673-2020",
+   "short": "Ordenanza 5673/2020",
+   "title": "Ordenanza 5673/2020: Autorizase al Departamento Ejecutivo a Otorgar un descuento de hasta 50% (cincuenta por ciento) sobre la Tasa de Seguridad e Higiene, a los comercios que adquieran productos de microemprendedores registrados bajo el prog",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468714",
+   "versions": [
+    {
+     "from": "2020-07-26",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468714",
+     "sha256": "05dbec71dbde81fbf7fee82ab0269474d49cbd58d0684be32b19a2b96eb254bc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5680-2020",
+   "short": "Ordenanza 5680/2020",
+   "title": "Ordenanza 5680/2020: Autorícese al Departamento Ejecutivo a firmar un convenio de adhesión al Programa Tarjeta \"YPF EN RUTA\", por el cual la Municipalidad solo podra consumir combustibles, lubricantes y servicios vinculados al mantenimiento ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468718",
+   "versions": [
+    {
+     "from": "2020-07-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3873/contents/1468718",
+     "sha256": "8b55af6eab98951aad817400991222d528235a80d586045f66c8be410ba201c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5763-2021",
+   "short": "Ordenanza 5763/2021",
+   "title": "Ordenanza 5763/2021: Modifíquese el artículo 6 de la Ordenanza Nº 5557/19 que quedara redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565291",
+   "versions": [
+    {
+     "from": "2021-05-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565291",
+     "sha256": "e16570998509624595997108518f226691fd65f6885b2cf3c6517b56e1c331b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5781-2021",
+   "short": "Ordenanza 5781/2021",
+   "title": "Ordenanza 5781/2021: Homologase el Convenio Marco entre el Ministerios de Obras Publicas de la Nación y la Municipalidad de Pinamar, identificado bajo el número 306/2020 para la puesta en marcha del Plan \"Argentina Hace-II\", obrante en fs. 3",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565331",
+   "versions": [
+    {
+     "from": "2021-05-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565331",
+     "sha256": "540347a678db59e6b97af8a22be36555e6e8784b1f5850d2da3ebaf49f441500"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5784-2021",
+   "short": "Ordenanza 5784/2021",
+   "title": "Ordenanza 5784/2021: Crease la Comisión Municipal de Tasaciones que tendrá por finalidad la valuación de los Bienes privados municipales en los casos en que el Municipio disponga la Venta de los mismos por procedimientos establecidos en la L",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565403",
+   "versions": [
+    {
+     "from": "2021-05-02",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565403",
+     "sha256": "9dddab96cc57039ce488eebc8a1e1bc570f00621e91b7dedb157df1c86f3d013"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5801-2021",
+   "short": "Ordenanza 5801/2021",
+   "title": "Ordenanza 5801/2021: El Honorable Concejo Deliberante del Partido de Pinamar adhiere en todos sus términos a la Ley Nacional N° 27.592 conocida como \"Ley Yolanda\" sobre la capacitación en desarrollo sostenible para servidores públicos de los",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565407",
+   "versions": [
+    {
+     "from": "2021-05-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565407",
+     "sha256": "55118aa63c1d83dd3862777f759a96e9091faa12d987880b9706e572f1d7f917"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5811-2021",
+   "short": "Ordenanza 5811/2021",
+   "title": "Ordenanza 5811/2021: Adhiérase la Municipalidad de Pinamar a la Ley Nacional N° 27.350 -incluida como anexo 1- de la presente, que establece un marco regulatorio para la investigación médica y científica del uso medicinal, terapéutico y/o pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565412",
+   "versions": [
+    {
+     "from": "2021-05-02",
+     "units": 27,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5211/contents/1565412",
+     "sha256": "f12d00a55645e78357719706de03b3308cbe9274ce745b33d33a178f5d5c9c77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5860-2021",
+   "short": "Ordenanza 5860/2021",
+   "title": "Ordenanza 5860/2021: Homologue el Convenio N° 308/2020, suscripto ante el Ministerio de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588267",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588267",
+     "sha256": "a079ca50c66a94fb90a90d970c81eb4b27843939bd9f008ab8d1b74518d92b7a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5874-2021",
+   "short": "Ordenanza 5874/2021",
+   "title": "Ordenanza 5874/2021: Modifíquese el art. 1 de la Ordenanza Nº 5863/21 el que quedara",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588347",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588347",
+     "sha256": "59b47b0ab2ce000971e55cae41c8854de051548a95a1b15ac05414285934b828"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5875-2021",
+   "short": "Ordenanza 5875/2021",
+   "title": "Ordenanza 5875/2021: Extiendase el plazo otorgado en el artículo 3º por la Ordenanza Nº",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588348",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588348",
+     "sha256": "9e6c7beabaed4b5618e0e2c6e6f6c42489d814a1f50b944609f992a7d156b205"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5877-2021",
+   "short": "Ordenanza 5877/2021",
+   "title": "Ordenanza 5877/2021: ADHIÉRASE la Municipalidad de Pinamar a lo dispuesto por el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588352",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588352",
+     "sha256": "5e02db4156f0e259cc2919eda255c7163f29209b64dde9a1f9634e8cfe53b376"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5886-2021",
+   "short": "Ordenanza 5886/2021",
+   "title": "Ordenanza 5886/2021: OBJETO: El presente Proyecto de Ordenanza tiene por objeto",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588362",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588362",
+     "sha256": "038a8c048e7279387b72f8bdb743396fd5b26de46fe461ed2a5685a2ed459c95"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5887-2021",
+   "short": "Ordenanza 5887/2021",
+   "title": "Ordenanza 5887/2021: Autorizase al Departamento Ejecutivo a eximir de las tasas de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588368",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588368",
+     "sha256": "e422d5c31368eda47e925e765624d63dbc74a7d08525da0274ca0c103cd0f6e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5900-2021",
+   "short": "Ordenanza 5900/2021",
+   "title": "Ordenanza 5900/2021: Declárese de Interés Municipal y Cultural el evento organizado por",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588386",
+   "versions": [
+    {
+     "from": "2021-07-02",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5542/contents/1588386",
+     "sha256": "2148d0313272c84a3d6a660624c7ad0acc638e1bd23cf7ff65cd1558359eb7f0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5921-2021",
+   "short": "Ordenanza 5921/2021",
+   "title": "Ordenanza 5921/2021: Adhiérase la Municipalidad de Pinamar a la Resolución Nº 1/2019 del",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609674",
+   "versions": [
+    {
+     "from": "2021-08-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609674",
+     "sha256": "4e6f81ca6fe08038c7c50b8bf5411e195ebeeb823a4c820d3afff70abe32c6aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5931-2021",
+   "short": "Ordenanza 5931/2021",
+   "title": "Ordenanza 5931/2021: Prorróguese por el plazo de un año los permisos de uso precario a los",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609740",
+   "versions": [
+    {
+     "from": "2021-08-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609740",
+     "sha256": "a89309b5d6825ba5c0a94823c0968a850d374e3024e0b86a864ce75bb5b99f96"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5932-2021",
+   "short": "Ordenanza 5932/2021",
+   "title": "Ordenanza 5932/2021: Institúyase en el Municipio de Pinamar el 27 de mayo de cada año",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609745",
+   "versions": [
+    {
+     "from": "2021-08-29",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609745",
+     "sha256": "a6cca168d78db4dfa0e263ba34777317c71677d68cc241478ada928d082292b2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5938-2021",
+   "short": "Ordenanza 5938/2021",
+   "title": "Ordenanza 5938/2021: Homológuese el Convenio Marco identificado bajo el número CONVE-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609782",
+   "versions": [
+    {
+     "from": "2021-08-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5842/contents/1609782",
+     "sha256": "5ace7f0bd70a077163148f02aa557ff372d0e4816f2e842e19a3c974993e3903"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5942-2021",
+   "short": "Ordenanza 5942/2021",
+   "title": "Ordenanza 5942/2021: Modifíquese el artículo 4 de la Ordenanza Nº 5886/21 el cual quedara",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5848/contents/1610291",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5848/contents/1610291",
+     "sha256": "8d840ff5c99f74d68c7690cd6a5b44054fc4e9cc815ee5b14868c8be1742f993"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5948-2021",
+   "short": "Ordenanza 5948/2021",
+   "title": "Ordenanza 5948/2021: Fijase en la suma de PESOS DOS MIL OCHOCIENTOS CUARENTA",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5848/contents/1610297",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5848/contents/1610297",
+     "sha256": "c8c936a82b0b99039e1184dc05891b7c6e1cf2c6b0183e29d6b42732d1783f06"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5955-2022",
+   "short": "Ordenanza 5955/2022",
+   "title": "Ordenanza 5955/2022: Adhiérase a esta Municipalidad al \"Día Mundial de la Salud del",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1696370",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1696370",
+     "sha256": "3f1c01c6ae05f45f5089a08dc7a5cc05a8a1495f4137ff070bce6144fe6df195"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5967-2022",
+   "short": "Ordenanza 5967/2022",
+   "title": "Ordenanza 5967/2022: Autorícese a la ocupación del espacio público por un día durante el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1696387",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1696387",
+     "sha256": "4147ae730d4f8ac28d932cc539db19f2f2ef4c45123929797b826fd0ac822c02"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-5971-2022",
+   "short": "Ordenanza 5971/2022",
+   "title": "Ordenanza 5971/2022: Homologuese el Convenio Marco, firmado el día 13 de Julio del año",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1696506",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1696506",
+     "sha256": "f2f406958cf6e66e97af1c874f45d19611a170413b0887935143eafe5ed41fe6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6046-2022",
+   "short": "Ordenanza 6046/2022",
+   "title": "Ordenanza 6046/2022: Dispóngase la implementación de lactarios en instituciones públicas",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1698693",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1698693",
+     "sha256": "77374f0587adbfa71d42e75ecabffcb988043034c2698901cbd9adf452811f04"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6048-2022",
+   "short": "Ordenanza 6048/2022",
+   "title": "Ordenanza 6048/2022: Declarese OBLIGATORIA la construcción, mantenimiento, reparación",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1698696",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1698696",
+     "sha256": "8bdda10c6033eb53fd54a3bd944f088362ca8d3cc51b10643bfff809e7bf1203"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6101-2022",
+   "short": "Ordenanza 6101/2022",
+   "title": "Ordenanza 6101/2022: Homologase el Convenio Marco entre el Ministerio de Desarrollo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1698906",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/6638/contents/1698906",
+     "sha256": "5e8cbe15f6f1cad2c20f41e29ab5e8957efb8c8919b1c7dd49deb2e7ae1b80a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6110-2022",
+   "short": "Ordenanza 6110/2022",
+   "title": "Ordenanza 6110/2022: Homologase El Anexo del Proyecto Plan Nacional Primera Infancia",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7054/contents/1720895",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7054/contents/1720895",
+     "sha256": "aff96eaf98e7b0466e7630a53b991b9a6026ed3047f565b597e508b6b260d0c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6138-2022",
+   "short": "Ordenanza 6138/2022",
+   "title": "Ordenanza 6138/2022: Declárese de Interés Municipal el proyecto Espacios Azules Dejar una",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761326",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761326",
+     "sha256": "83594723849cec79aff78cc1c383160129ec6dc765bc1b49666b51d0963bdb3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6139-2022",
+   "short": "Ordenanza 6139/2022",
+   "title": "Ordenanza 6139/2022: Autorícese a disponer del espacio público sito en Av. Bunge y Marco",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761328",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761328",
+     "sha256": "7bc254b584d76bf5630d2ddee207b2ebe98086cbb8d15c00657585b57ea852a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6147-2022",
+   "short": "Ordenanza 6147/2022",
+   "title": "Ordenanza 6147/2022: Convalídese el Contrato de comodato celebrado entre HONDA",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761340",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761340",
+     "sha256": "5b4f1f45b36706bce01cc627f216472acde8ee11bfc14f1e86cb809f553fbbcb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6148-2022",
+   "short": "Ordenanza 6148/2022",
+   "title": "Ordenanza 6148/2022: establece que Las sanciones por infracciones a esta ley son de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761343",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761343",
+     "sha256": "67da01f9e6cd7eb336f87a497c0fac7fe0079f95dd445b63178e37ed27b47ba4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6155-2022",
+   "short": "Ordenanza 6155/2022",
+   "title": "Ordenanza 6155/2022: Autorizase al Departamento Ejecutivo a prorrogar hasta el 30 de abril",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761364",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761364",
+     "sha256": "80efbdff7973bff1b2fb6dff73ea5bd86332ab4dd9afb8467e63991b3bba3f79"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6175-2022",
+   "short": "Ordenanza 6175/2022",
+   "title": "Ordenanza 6175/2022: Declárese Personalidad Destacada de la Cultura de este Municipio a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761403",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761403",
+     "sha256": "8e6dabfcca83eec795f1638ff56bf5976ad8c0a8b9259af66784735a3c2a38de"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6185-2022",
+   "short": "Ordenanza 6185/2022",
+   "title": "Ordenanza 6185/2022: Acéptese la donación recibida en esta Comuna, de parte del Sr.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761457",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7443/contents/1761457",
+     "sha256": "3f7fdee5e2d4dd2c26dad61c36d4f971a67894a96f4dd6cb8184115a3597bd28"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6181-2022",
+   "short": "Ordenanza 6181/2022",
+   "title": "Ordenanza 6181/2022: Se establece la inhabilitación para ejercer los cargos municipales de: a- Secretarios, b- Directores, c- Coordinadores, d- Jefes de Servicios e- Secretario del Honorable Concejo Deliberante, f- Secretarios de Bloques g- ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796774",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796774",
+     "sha256": "6bd496f8bbf3e51ba5b55be91910f2622c933ed8641781b020273da9bed74382"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6186-2022",
+   "short": "Ordenanza 6186/2022",
+   "title": "Ordenanza 6186/2022: Crease el Registro de Beneficio de descuento de la Tasa SICU, que dependerá de la Secretaria de Seguridad y la Secretaria de Hacienda y Modernización, el cual será integrado por todos los contribuyentes que la Secretaria",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796979",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796979",
+     "sha256": "01f51481f68deb80aa79912cef1111fe8e9fe1e3ea0c60ce75ee0e088f09ac1a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6227-2022",
+   "short": "Ordenanza 6227/2022",
+   "title": "Ordenanza 6227/2022: Aceptase la cesión de la parcela identificada catastralmente como Sección IV, Parcela 6bs, Reserva de Equipamiento Comunitario de 9Ha. 17a 98,83c. Partida inmobiliaria 49853. ARTICULO 2: El Departamento Ejecutivo deberá ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796988",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796988",
+     "sha256": "db9945b66f82cf4cf79d70b7401741219d71f9bc87a81ca95f31ed67fa0ca382"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6237-2022",
+   "short": "Ordenanza 6237/2022",
+   "title": "Ordenanza 6237/2022: Adhiérase al Plan de Integración Territorial Universitaria “PUENTES”, con el objeto de ampliar las oportunidades de acceso a la educación superior universitaria en nuestro Municipio. ARTICULO 2: Créase la Comisión de apl",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796994",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796994",
+     "sha256": "ccae876b823c12e94047280a5a17eb3824560fc5140bafc261bcc54565050a0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6246-2022",
+   "short": "Ordenanza 6246/2022",
+   "title": "Ordenanza 6246/2022: Convalídese los alcances de la Ordenanza Nº 4773/16 , Articulo 1 que trata sobre la eximición de derechos de ocupación de espacios públicos y Canon de publicidad a todos los eventos deportivos y culturales que se lleven ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796996",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796996",
+     "sha256": "973ae6f6f8f9237bd013ed78f8771df1deab6db1fc90fbd6e9e1ed54133012a3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6250-2022",
+   "short": "Ordenanza 6250/2022",
+   "title": "Ordenanza 6250/2022: Establézcase el doble sentido de circulación vial en la calle Júpiter, entre las calles Jasón y 1ro. De Julio de 1978, continuando en doble mano hasta la Av. Bunge. ARTICULO 2: Procédase a instalar por el área correspond",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796997",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796997",
+     "sha256": "a2968432b54d3e80acaa53421fbc201f825864c06a3bb13ff258433916356770"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6297-2022",
+   "short": "Ordenanza 6297/2022",
+   "title": "Ordenanza 6297/2022: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pinamar de forma mixta a la Audiencia Pública a celebrarse el día 12 de diciembre a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7820/contents/1800252",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7820/contents/1800252",
+     "sha256": "e137132c31258e91df2b8eaa0c9977d30e950ad8039dedc19cef76a50e0c9c71"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6255-2023",
+   "short": "Ordenanza 6255/2023",
+   "title": "Ordenanza 6255/2023: Adhiérase, en el ámbito del Partido de Pinamar a la Ley Nacional Nº 27.506 que establece el RÉGIMEN DE PROMOCIÓN DE LA ECONOMÍA DEL CONOCIMIENTO y la Ley Provincial N° 15.339. ARTICULO 2: CREACION DEL PROGRAMA. Créase el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854319",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854319",
+     "sha256": "38119444d20b6fc31c70a44de6b79c2c05496ec2c1a9cc4703ce31c51e33a408"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6277-2023",
+   "short": "Ordenanza 6277/2023",
+   "title": "Ordenanza 6277/2023: Autorícese el Convenio Marco entre el Instituto Universitario River Plate y la Municipalidad de Pinamar, para la puesta en marcha de acciones conjuntas, obrantes en fs. 2, 3 y 4 del expediente 4123-1898/2022 ARTICULO 2: ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854348",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854348",
+     "sha256": "b9ce955f7de008b48908b3602680c8d18a5754fe31f475e1e2ac1e5e60fddb77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6321-2023",
+   "short": "Ordenanza 6321/2023",
+   "title": "Ordenanza 6321/2023: Dispóngase que la documentación oficial del Hospital Comunitario de Pinamar Dr. Dionisio José “Pepe” Olaechea lleve como membrete en el margen superior derecho la frase: “Hospital Comunitario de Pinamar Dionisio José “Pe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854368",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854368",
+     "sha256": "43c4ea480b6adcd754c6c6cda1503efda9dc54971e6e2a1449fc1a3bfc95f559"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6391-2023",
+   "short": "Ordenanza 6391/2023",
+   "title": "Ordenanza 6391/2023: Créase el \"Centro Educativo Municipal\" que tendrá funcionamiento en el edificio municipal ubicado en Avenida Intermédanos Sur N° 530 (nomenclatura catastral: Circ.: 4-Sec.: RU- Parc.: 6F, Partida de inmueble Nº 32136). A",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854379",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854379",
+     "sha256": "ebba5ff1a56d595cf5715249dc89bb2d2ddd25043951e4623bc30506a3faff32"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-393-2023",
+   "short": "Ordenanza 393/2023",
+   "title": "Ordenanza 393/2023: Autorícese la suscripción del Convenio Boleto estudiantil, docente y auxiliares (el cual forma parte de la presente como ANEXO I), entre la Municipalidad de Pinamar y la empresa de Transporte 12 de octubre SRL. en concor",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920090",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920090",
+     "sha256": "482e21714d9c74bad04168aa3f98969b7568118d90dd986435743bda1cb581cd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6305-2023",
+   "short": "Ordenanza 6305/2023",
+   "title": "Ordenanza 6305/2023: Facultase al Departamento Ejecutivo de Pinamar a implementar la constitución obligatoria de domicilio electrónico en procedimientos administrativos municipales. ARTICULO 2: La constitución de domicilio electrónico sustit",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1919973",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1919973",
+     "sha256": "c722832d73d7377d5ac0842ced2c36ee16c1e4ace72b31a06f43349012df838f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6306-2023",
+   "short": "Ordenanza 6306/2023",
+   "title": "Ordenanza 6306/2023: Autorizase al Departamento Ejecutivo a suscribir Convenio de Cooperación, que luce a fs. 2/6 entre la Fundación Universidad de Belgrano “Doctor Avelino Porto” y el Municipio de Pinamar para realización de prácticas profe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1919977",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1919977",
+     "sha256": "867f3ebcb86dfd6e3e13a2e4cb82998a16df368e428d6d90b400fe1b93820a3d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6307-2023",
+   "short": "Ordenanza 6307/2023",
+   "title": "Ordenanza 6307/2023: Autorizase al Departamento Ejecutivo a suscribir Carta Compromiso para las Practicas Profesionales entre la Universidad Nacional de Lanus y la Municipalidad de Pinamar, que luce a fojas 02/04 del expediente del visto, co",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1919982",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1919982",
+     "sha256": "99ac535836de00c0372f41321eed3cd3b0e7509e8322c8b9a59b39af4109ae8e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6329-2023",
+   "short": "Ordenanza 6329/2023",
+   "title": "Ordenanza 6329/2023: Cédase al Ministerio de Seguridad de la Provincia de Buenos Aires, Superintendencia de Seguridad Siniestral, Dirección de Bomberos, Cuartel de Bomberos de Cariló, un sector de 1500 mts de la Reserva de Equipamiento Comun",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920032",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920032",
+     "sha256": "e84c0226feac991f88b2cd9b24a7168f014272c17d213c56b9c1c5ea6d093c10"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6346-2023",
+   "short": "Ordenanza 6346/2023",
+   "title": "Ordenanza 6346/2023: Apruébese el nuevo Contrato de Concesión de CALP y sus anexos en todos sus términos, obrante el mismo de fojas 2 a 101 del expediente 4123-0644/00 Cpo. 1 Anexo II",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920042",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920042",
+     "sha256": "54fb92156be21c2bd46de29e9f85e2eec19fd76e4547d6cece35393c02f83e44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6360-2023",
+   "short": "Ordenanza 6360/2023",
+   "title": "Ordenanza 6360/2023: PROGRAMA MUNICIPAL DE INMUEBLES. Crease el “Programa Municipal de Inmuebles de Pinamar” con el objetivo de administrar y generar reservas de inmuebles de dominio público y privado del Municipio, destinadas a la implement",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920051",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920051",
+     "sha256": "7f8a452c6c50ef60b000d5583af60fe858d388d7ddc81c9f9c7564407f4b6d0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6366-2023",
+   "short": "Ordenanza 6366/2023",
+   "title": "Ordenanza 6366/2023: Modifíquese el Articulo 1 de la Ordenanza Nº 5951/2021 el que deberá decir: Articulo 1: \"Cédase al Ministerio de Seguridad de la Provincia de Buenos Aires, el predio Municipal de reserva de equipamiento comunitario (REC)",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920054",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920054",
+     "sha256": "589b6bc7f09d438b803ce519f31032f6fc58ad1b5b485add2b00348bb8b55ab0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6392-2023",
+   "short": "Ordenanza 6392/2023",
+   "title": "Ordenanza 6392/2023: Autorícese la suscripción del Convenio específico entre el Instituto Universitario River Plate y el Municipio de Pinamar, en concordancia con los considerandos de la presente. ARTICULO 2: Incorpórese a la presente el Con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920086",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920086",
+     "sha256": "0b74bf0d7f4fac2526232434d8708e169ff664574d0e7372c8d282716fd4a61d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6410-2023",
+   "short": "Ordenanza 6410/2023",
+   "title": "Ordenanza 6410/2023: Convalidase en todos sus terminos el Decreto N° 3029/2022 por el cual se estableció la afectación presupuestaria del gasto tal como se enuncia en el anexo I del mentado decreto obrante a fs. 352/353 del Expediente N° 153",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920144",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920144",
+     "sha256": "4c30e1cfa361e2e07f45b6e11f47223c40c1df110acf26fbe814b0962f28ff5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6429-2023",
+   "short": "Ordenanza 6429/2023",
+   "title": "Ordenanza 6429/2023: Autorizase al Departamento Ejecutivo a prorrogar por el término de un año a partir de la presente todas aquellas licencias con vencimiento 2023.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920164",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920164",
+     "sha256": "8733ad029464361bb13fd5597b61fe5adc5fc176d016186c35c33a586ba48275"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6436-2023",
+   "short": "Ordenanza 6436/2023",
+   "title": "Ordenanza 6436/2023: APRUEBESE la Rendición de Cuentas correspondiente al Ejercicio 2022 presentada por el Departamento Ejecutivo según Expediente N° 4123-1041/2023 Cpo. 1, Cpo 2 y Cpo. 3.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920172",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920172",
+     "sha256": "24bb88ae27d05e372549ba715f45b22b7f7a9f04e1499c8c5b2531a751da6957"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6437-2023",
+   "short": "Ordenanza 6437/2023",
+   "title": "Ordenanza 6437/2023: ESTABLEZCASE la baja de la Prorroga del cálculo de recursos y presupuesto de gastos 2021 y sus modificaciones, plasmado en los comprobantes tipo 71. número 96 y 97; y comprobantes tipo 72, numero 26 y 27.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920176",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920176",
+     "sha256": "0a6429264443327659ac0af08a3d7cf49973f9addecfba1ed1feb548fa5e06d7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6439-2023",
+   "short": "Ordenanza 6439/2023",
+   "title": "Ordenanza 6439/2023: Aceptase la donación efectuada por el Hospital Italiano de Buenos Aires, a esta Municipalidad de Pinamar, que consiste en el equipamiento que seguidamente se detalla, elementos que serán afectados al normal funcionamient",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920178",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920178",
+     "sha256": "dcd3d6ecd031de291e92374f628cdcb96923cbf3946f0ab5c7c69a3916de9fe9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6445-2023",
+   "short": "Ordenanza 6445/2023",
+   "title": "Ordenanza 6445/2023: Homologase el Convenio de Cooperación Nº 060/2023 entre el Ministerio de Desarrollo de la Comunidad de la Provincia de Buenos Aires, y la Municipalidad de Pinamar, identificado bajo el número 393/2021 que tiene por objet",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920186",
+   "versions": [
+    {
+     "from": "2023-08-09",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9144/contents/1920186",
+     "sha256": "4dd458ae7fd41a2cefc7e255b8d1463e62b2a4d4103d108aa2294c5db5ff71f2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6467-2024",
+   "short": "Ordenanza 6467/2024",
+   "title": "Ordenanza 6467/2024: Declárese Personalidad Destacada del Deporte al joven Maximiliano Almaraz, DNI 34.590.002, por su trayectoria deportiva destacada en ciclismo.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001734",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001734",
+     "sha256": "46597f3b66dfbca3b78f6823e7d88559c8904e5f05d425aa396ddcb8eaf1045f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6468-2024",
+   "short": "Ordenanza 6468/2024",
+   "title": "Ordenanza 6468/2024: Homológase el “Convenio Urbanístico celebrado entre la Municipalidad de Pinamar y BNG 5 S.A\", suscripto con fecha 1 de junio de 2023, identificado bajo el número 105/2023; obrante de fs 118 a 123 del Expediente 4123-1589",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001742",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001742",
+     "sha256": "c017f446067bb83e365e543b57036ffe65228d1a8c052c477519c7aeb053ff74"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6469-2024",
+   "short": "Ordenanza 6469/2024",
+   "title": "Ordenanza 6469/2024: Deróguese, a partir del 1 de julio de 2023, los artículos 61 y 62 del Código Tributario de Pinamar (Ordenanza 6324/2022 y modificatorias).",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001744",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001744",
+     "sha256": "4a5d4902d96459e33702e5bde2421aaccc514bce11be84da542fa2bddde7643f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6472-2024",
+   "short": "Ordenanza 6472/2024",
+   "title": "Ordenanza 6472/2024: Créase el “Programa Pinamar distingue a su Gente” en el marco de cada nuevo aniversario de la Ciudad, el que se llevará a cabo desde el día 24 junio al 01 de Julio de cada año.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001748",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001748",
+     "sha256": "7b2ed73bb9eb20563542624759e07a196c0e1367f5e55247958bcc5f5d6f54cb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6473-2024",
+   "short": "Ordenanza 6473/2024",
+   "title": "Ordenanza 6473/2024: Modifíquese el artículo N° 220 del Código Tributario (Ordenanza Nº 6324/22), el que quedará redactado de la siguiente manera: \"Artículo 220: Fíjese el valor del módulo para el Ejercicio Fiscal 2023, a partir del 01 de En",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001752",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001752",
+     "sha256": "6a628501a9559705d010c212305e4acd15984e9150cf447c31c2ac527292656d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6476-2024",
+   "short": "Ordenanza 6476/2024",
+   "title": "Ordenanza 6476/2024: Crease el Consejo Asesor de Políticas para la Prevención de Adicciones. El Consejo Asesor funcionará en el ámbito del Programa Preventivo y Asistencial de Adicciones, siendo su función la de proponer un programa anual de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001757",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001757",
+     "sha256": "60b35d3199bafe75ee18b60d7e313c59b9c068d6b427a9fc0956e063610fc70c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6480-2024",
+   "short": "Ordenanza 6480/2024",
+   "title": "Ordenanza 6480/2024: Modifiquese el Artículo 1 de la Ordenanza Nº 6428/23, el que quedará redactado de la siguiente manera: \"Autorízase al Departamento Ejecutivo a prorrogar por el termino de un (1) año a partir de la presente a todas aquell",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001767",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001767",
+     "sha256": "c8bd621306b2ec3a609ba424ede9b1396877dfbe47a44f1a3c827fcacf2295d6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6494-2024",
+   "short": "Ordenanza 6494/2024",
+   "title": "Ordenanza 6494/2024: Créase en el ámbito del Partido de Pinamar el Registro de navegantes con Kayaks y botes a remos el cual estará a cargo del operativo de seguridad en playa o la que en un futuro la reemplace.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001783",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001783",
+     "sha256": "4a61c686f4376ae153337f7610688f4e5e22948b4c1ab59e1479bae6a39af642"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6540-2024",
+   "short": "Ordenanza 6540/2024",
+   "title": "Ordenanza 6540/2024: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pinamar de forma mixta a la Audiencia Pública a celebrarse el día 9 de noviembre de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001799",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9953/contents/2001799",
+     "sha256": "f526f2aa182c4f8f612546e6c491efd691ac4c703ca9b1dcb4dd5569c2426d6f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6562-2024",
+   "short": "Ordenanza 6562/2024",
+   "title": "Ordenanza 6562/2024: Modifíquese el artículo N° 220 del Código Tributario (Ordenanza Nº 6324/22), el que quedará redactado de la siguiente manera: \"Artículo 220: Fíjese el valor del módulo: A partir del 01 de Enero de 2023 en pesos sesenta y",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094588",
+   "versions": [
+    {
+     "from": "2024-08-25",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094588",
+     "sha256": "96589281ed0662064025cec9be1392da2e0e601c824961602cd3f000c6d2e01a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6569-2024",
+   "short": "Ordenanza 6569/2024",
+   "title": "Ordenanza 6569/2024: Modifíquese el artículo 17 inc. J de la Ordenanza Nº 6253/22 que quedará redactado de la siguiente manera: Inciso J: \"La Unidad afectada al servicio de taxi, estará pintada y/o con material de plotteo con los siguientes ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094593",
+   "versions": [
+    {
+     "from": "2024-08-25",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094593",
+     "sha256": "a247f323f8f997db748c103c78b6e4b3e8c1ebe730da9937ea5fb0d0c8fe6297"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6570-2024",
+   "short": "Ordenanza 6570/2024",
+   "title": "Ordenanza 6570/2024: Autorizase a la actualización de tarifa del servicio a la Asociación Propietaria de Taxi del Partido de Pinamar, a $834.- (ochocientos treinta y cuatro) la bajada de bandera y a $ 52 (pesos cincuenta y dos ) la ficha. AR",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094597",
+   "versions": [
+    {
+     "from": "2024-08-25",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094597",
+     "sha256": "3e95a8aa7a117c620998d02d4d7d7630f46472fa5287772144baf4f6d77acb69"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6583-2024",
+   "short": "Ordenanza 6583/2024",
+   "title": "Ordenanza 6583/2024: Convalídese en los términos del artículo 21 del Decreto Ley N° 8751/77 y el artículo 4° de la Ordenanza Municipal N° 4813/16, el Decreto Nº 2966/23 mediante el cual se dispone la designación del Dr. Alberto María Lamarqu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094599",
+   "versions": [
+    {
+     "from": "2024-08-25",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094599",
+     "sha256": "01c8992cf8347af7fdfe900d89c60ff1986b51d36b8f7c0cd0927458c8690964"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6606-2024",
+   "short": "Ordenanza 6606/2024",
+   "title": "Ordenanza 6606/2024: Autorizase a la actualización de tarifa del servicio a la Asociación Propietaria de Taxi del Partido de Pinamar, a partir del 07 de enero de 2024 a $1251.- (pesos mil doscientos cincuenta y uno) la bajada de bandera y a ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094607",
+   "versions": [
+    {
+     "from": "2024-08-25",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11159/contents/2094607",
+     "sha256": "2cfa8e3b5d0b2884b08de53457f9ea7e15e1a4545b0bf7662b01abee27056bbf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6686-2024",
+   "short": "Ordenanza 6686/2024",
+   "title": "Ordenanza 6686/2024: NUEVAS HABILITACIONES. aquellas personas que desean habilitar un comercio podrán hacerlo abonando el valor de la tasa de habilitación de comercios e industria con un descuento del 50%, acreditando libre deuda municipal a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140128",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140128",
+     "sha256": "ea6744be29172adc541e0c4cabaced0c29750acb1a384402d9f25e7bd852ed2e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6621-2024",
+   "short": "Ordenanza 6621/2024",
+   "title": "Ordenanza 6621/2024: Condónese de la deuda de ejercicios anteriores sobre Tasas Municipales y sus Anexas al Señor Maneyro, Héctor Daniel, DNI 14.325.471 titular del inmueble ubicado en la Calle Esparza Nº 844 Ostende , Partida N° 20349 , Nom",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139821",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139821",
+     "sha256": "dd6267708e1bcff2ce5d245894a23582accd9e2396ccf8cb49aad3a09f2c6b44"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6624-2024",
+   "short": "Ordenanza 6624/2024",
+   "title": "Ordenanza 6624/2024: Convalídese el Decreto 0306/2024 de fecha 09 de Febrero de 2024, por el cual se autoriza al pago de Bonificación SAMO correspondiente a los meses de Agosto, Septiembre, Octubre, Noviembre y Diciembre del 2023 al personal",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139826",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139826",
+     "sha256": "fab831fad9277377d0f671f6cfd3b9fa8cce3d2e8286aae245d726afed049e63"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6625-2024",
+   "short": "Ordenanza 6625/2024",
+   "title": "Ordenanza 6625/2024: Autorizase al Departamento Ejecutivo a eximir al Sr. Guillermo Dario Buseta (DNI: 30.817.232) del pago del canon para el permiso de venta ambulante en playa, correspondiente a la temporada 2023-2024. ARTICULO 2: La autor",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139830",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139830",
+     "sha256": "8b0a6d62d82bce5c2041d88fb9456c51661c122b15618848976f566c9c7d3d2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6626-2024",
+   "short": "Ordenanza 6626/2024",
+   "title": "Ordenanza 6626/2024: Exímase del pago del 5% ( cinco por ciento) del depósito para fondo benéfico que regula el Artículo 6º, Inciso a) de la Ordenanza Nº 0972/81 , a la operatoria de venta y circulación de la rifa, llevada adelante por el Ce",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139833",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139833",
+     "sha256": "746a400b12ef96ad0d887afa46bc4d09b0bb54e44ef11142e396350a57c83a2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6628-2024",
+   "short": "Ordenanza 6628/2024",
+   "title": "Ordenanza 6628/2024: Dese de baja del Patrimonio Municipal por DESTRUCCION TOTAL al vehículo marca VOLKSWAGEN, modelo GOL 1.6 3 P POWER PLUS, año 2009, dominio IHN-550, cuyo titular es la MUNICIPALIDAD DE PINAMAR, conforme las constancias de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139838",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139838",
+     "sha256": "e31db63de21c96afd86ace3720ea0ac93201ac22e13e49f7036ee2647acb8cf0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6630-2024",
+   "short": "Ordenanza 6630/2024",
+   "title": "Ordenanza 6630/2024: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pinamar de forma mixta a la Audiencia Pública a celebrarse el día 30 de abril de 20",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139844",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139844",
+     "sha256": "39ec3c3e20f16bf22a5d58581d5c4c053adb9b37c3c7fdee444b7b0e62759167"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6632-2024",
+   "short": "Ordenanza 6632/2024",
+   "title": "Ordenanza 6632/2024: Convalidase en todos sus términos el Decreto Nº 0164/2024 de fs. 50/51.- ARTICULO 2: Comuníquese al Departamento Ejecutivo, dése al Registro oficial, cumplido, archívese. Sala de Sesiones, 05 de abril de 2024",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139847",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139847",
+     "sha256": "1bd8e1b4447a687d4b7867e8667a9af58bf04880ab9c4deab9d4de5c577eb7c3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6637-2024",
+   "short": "Ordenanza 6637/2024",
+   "title": "Ordenanza 6637/2024: Autorízase al Departamento Ejecutivo a otorgar un permiso precario por el plazo de un (1) año a nombre de la Sra. VALLEJOS, Mónica Alejandra (DNI 25.626.883) para hacer uso de la actividad comercial bajo el rubro “despen",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139853",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139853",
+     "sha256": "d6fd1c466a5de3275a14564a91afc184c827f27ba0f850442c61c8d2df4e32ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6639-2024",
+   "short": "Ordenanza 6639/2024",
+   "title": "Ordenanza 6639/2024: Condonónese la deuda de la tasa de seguridad e higiene sobre la Cuenta municipal 2-142884, correspondiente al inmueble denominado Refugio del Rock, titularidad del Sr Euguren Adolfo Manuel. ARTICULO 2: Comuníquese al Dep",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139856",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139856",
+     "sha256": "777df2c76fbe43a8378f181e1b437935def62f867374fd1c2af5f8439a7952c2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6645-2024",
+   "short": "Ordenanza 6645/2024",
+   "title": "Ordenanza 6645/2024: Autoricese al Departamento Ejecutivo al recupero del lote 2 de la manzana 23 seccion A, y por lo expresado en los considerendados, autoricese a que proceda a la limpieza y demolicion de los restos de la casa prefabricada",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139866",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139866",
+     "sha256": "c3d1e56d4bff8e9743224a08082c960066e1841daa2bdef3f11b14c329d1f826"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6646-2024",
+   "short": "Ordenanza 6646/2024",
+   "title": "Ordenanza 6646/2024: Condónese la deuda e intereses por las Tasas Municipales y anexos que posee el Señor Manuel Segura DNI 10.484.092 titular del inmueble ubicado en la calle Del Cangrejo 1633, Partida Nº 7333, Nomenclatura Catastral 4-V-3-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139867",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139867",
+     "sha256": "816cc5dacd7029ce663181f60a1a82db80995dbe7a64f1a1be94eb3953a7fe10"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6648-2024",
+   "short": "Ordenanza 6648/2024",
+   "title": "Ordenanza 6648/2024: Condónese la deuda e intereses en concepto de TSU y sus anexas complementarias devengadas y cargadas al día de la fecha en las cuentas Nº 944 y 30895, a nombre de “Movimiento Cristiano y Misionero – Iglesia Emanuel” CUIT",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139870",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139870",
+     "sha256": "4164e334ef9d6cf755fca962a6bbbac4ef120f3db5961789e152c3e462aa90ce"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6650-2024",
+   "short": "Ordenanza 6650/2024",
+   "title": "Ordenanza 6650/2024: Autorizase al Sr. Intendente Municipal, Juan Manuel Ibarguren, DNI 31.937.563 a hacer uso de la licencia solicitada sin goce de haberes desde el día 08 de mayo del 2024 al 17 de mayo del 2024 inclusive. ARTICULO 2: Desíg",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139873",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139873",
+     "sha256": "80abbb57c60f717afe179997ed31d5b0ba367c60d30ddd675d39108d87f30a34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6655-2024",
+   "short": "Ordenanza 6655/2024",
+   "title": "Ordenanza 6655/2024: Autorícese la suscripción del Convenio específico entre la Universidad de la Marina Mercante y el Municipio de Pinamar, en concordancia con los considerandos de la presente. ARTICULO 2: Incorpórese a la presente el Conve",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139878",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139878",
+     "sha256": "c74b2fdbc1d260ac85229f9d94407294a8a0d717a0dd1fa45d167db9fef98758"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6656-2024",
+   "short": "Ordenanza 6656/2024",
+   "title": "Ordenanza 6656/2024: Autorícese al Departamento Ejecutivo a otorgar venia para operar por el termino de 6 meses a partir de la promulgación de la presente a la Agencia de Remis By Power, con una sola unidad, constituyéndose como excepción de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139879",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139879",
+     "sha256": "fdd04679f31d4fabb2d64e18ef30f7ba2315c3d7d3b489ff51ded316a6ef9ca4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6658-2024",
+   "short": "Ordenanza 6658/2024",
+   "title": "Ordenanza 6658/2024: Aceptase la donación efectuada a esta comuna, que consiste en el equipamiento que seguidamente se detalla, elementos que serán afectados al normal funcionamiento de la institución “Espacios de las Infancias”, dependiente",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139883",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139883",
+     "sha256": "93cd0c9fb86498d03751b9eab27042de2d8c961f036c50d7c7e05d74230c065e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6659-2024",
+   "short": "Ordenanza 6659/2024",
+   "title": "Ordenanza 6659/2024: Acéptese la donación efectuada por la Fundación Donde Quiero Estar Replica Pinamar, a esta Municipalidad, de seis (6) Sillones para Quimioterapia, para el área de Oncologia (Donado por la empresa TGS a traves de la Funda",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139885",
+   "versions": [
+    {
+     "from": "2024-12-07",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11767/contents/2139885",
+     "sha256": "041ca76a2a94965a36dbe29db4c98958d1c12c9b6ac01d118fa8b582ef8cfbb7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6660-2024",
+   "short": "Ordenanza 6660/2024",
+   "title": "Ordenanza 6660/2024: Modifiquese el Articulo 1 de la Ordenanza Nº 6484/2023 el que quedara redactado de la siguiente manera: “ARTÍCULO 1: Aceptase la donación efectuada por la Asociación Cooperadora del Hospital Comunitario de Pinamar, a est",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140011",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140011",
+     "sha256": "6b86ad27e64761c3d9336cbccba5b9126ea3d99afcbeb8f730e997727d98b12f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6662-2024",
+   "short": "Ordenanza 6662/2024",
+   "title": "Ordenanza 6662/2024: Condónese de la deuda de ejercicios anteriores sobre Tasas Municipales y sus Anexas al Señor Nicanor Flores, DNI 93.163.249, co-titular y Olivera Nogales Maria Eusebia Titular del inmueble ubicado en la calle Urtubey 264",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140015",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140015",
+     "sha256": "5832d4a8576f1c5f7d34ef4a3683cac46486e3a44fb812e6412e3288d3a5a1fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6664-2024",
+   "short": "Ordenanza 6664/2024",
+   "title": "Ordenanza 6664/2024: Aceptase la donación recibida en esta Comuna, de parte de la Fundación Dr. Silvio Sebastian Macchiavello, de (5) TRANSDUCTORES marca PHILIPS; debiéndose por medio del Departamento de Patrimonio proceder a la incorporació",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140017",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140017",
+     "sha256": "7be22ddacea803f9332ec770acdf6f2aaf2fc31e9c2f1f7e0052aeabdf6be413"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6665-2024",
+   "short": "Ordenanza 6665/2024",
+   "title": "Ordenanza 6665/2024: Autoricese al Departamento Ejecutivo a registrar y efectuar el pago a la Agente Municipal ROBIGLIO VILLALONGA Johana DNI 34.489.085, identificada con el numero de Legajo 3161, que reviste el cargo de CX3. 24 INSTRUMENTAD",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140020",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140020",
+     "sha256": "9b5397ef989300d4f5832b7e1e497d112b168121c30a36e6381bfc9cb364a5e5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6668-2024",
+   "short": "Ordenanza 6668/2024",
+   "title": "Ordenanza 6668/2024: Declárese de Interés Municipal y Social el encuentro denominado “PRIMERA JORNADA DE PROMOCIÓN DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO”, a realizarse el día 30 de mayo de 2024 de 14 a 17 Hs. en las instalaciones del Tea",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140025",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140025",
+     "sha256": "82a9853652c30d020caace062c09372802e1c20791602a25341037196fd97393"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6676-2024",
+   "short": "Ordenanza 6676/2024",
+   "title": "Ordenanza 6676/2024: Condónese la deuda e intereses por las Tasas Municipales y anexos sobre la Partida Municipal Nº 35650, de la localidad de Pinamar a la Sra. Maria noemi Filippi DNI 0.932.338.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140046",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140046",
+     "sha256": "14697c78320dbb24192959a1a2571f706e2caa9882250a75ffb60d8e71d1cce5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6677-2024",
+   "short": "Ordenanza 6677/2024",
+   "title": "Ordenanza 6677/2024: Autorizase al Departamento Ejecutivo a registrar y a efectuar el pago total de los importes correspondientes, y cuyo detalle obra en folios 12 con la actualización si correspondiera por la retribución especial de seis su",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140049",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140049",
+     "sha256": "85f47f39a28402e84c1eb6e7250a18e988bed99728e9f40986902b5676358295"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6678-2024",
+   "short": "Ordenanza 6678/2024",
+   "title": "Ordenanza 6678/2024: Aceptese la donación recibida a esta Comuna, de parte de la Asociación Cooperadora del Hospital Comunitario de Pinamar (ACOHOSPI); debiéndose por medio del Departamento de Patrimonio proceder a la incorporación los ítems",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140052",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140052",
+     "sha256": "703f7ebb7a690c566bd2100fd276e560aa7d6f72b9db57bffdeef6910ef8a536"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6679-2024",
+   "short": "Ordenanza 6679/2024",
+   "title": "Ordenanza 6679/2024: Aceptese la donación recibida a esta Comuna, de parte de un Contribuyente, de un (1) ELECTROCARDIOGRAFO marca CARDIMAX FX-121 donado al Hospital Comunitario de Pinamar; debiéndose por medio del Departamento de Patrimonio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140061",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140061",
+     "sha256": "740b4fa701f985ccba65cded18abf057981b31abc82d0405f9e94646e1075990"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6684-2024",
+   "short": "Ordenanza 6684/2024",
+   "title": "Ordenanza 6684/2024: Desadjudíquese de forma definitiva a los Sres. Carle Diego Cristian DNI: 20.538.989 y Moringo Vargas Maria Senaida DNI: 94.152.437, adjudicados por Ordenanza Nº 4723/16, denominado IV-A-34-13, por lo expresado en los con",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140104",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140104",
+     "sha256": "8027743eb19f086372cac6d29042ca48840c53c50634bef9c9095354b0ebb5b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6690-2024",
+   "short": "Ordenanza 6690/2024",
+   "title": "Ordenanza 6690/2024: Concédase permiso de concesión y Explotación del Muelle de Pesca al CLUB DE PESCA DE PINAMAR por un plazo de cinco (5) años.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140145",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140145",
+     "sha256": "b77df9f45ceb0f45f3aed33ff6884e4cf6992de0a425d400e6d9848a4c817a8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6693-2024",
+   "short": "Ordenanza 6693/2024",
+   "title": "Ordenanza 6693/2024: Autorícese al Departamento Ejecutivo a otorgar un permiso de uso precario para la habilitación del rubro despensa a la Sra. Gloria Lorena Martinez Fretes, DNI 39.461.040, en su domicilio ubicado en la calle Dakar N° 2224",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140186",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140186",
+     "sha256": "3db4c979e103bddfafce24faba9a373cad98f4a3c4a1c24fb8c950c8ad20d1db"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6694-2024",
+   "short": "Ordenanza 6694/2024",
+   "title": "Ordenanza 6694/2024: Autorízase al Departamento Ejecutivo a otorgar un permiso de uso precario para la habilitación del rubro comidas rapidas (pizzería) sin consumo en el lugar, a la Sra. Angelica Peralta, DNI 18.176.274, en su domicilio ubi",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140188",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140188",
+     "sha256": "9d6c7c0fbb34cfb32df51a34e4c029dc6084700dd53649107f5cc58805a8d1be"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6695-2024",
+   "short": "Ordenanza 6695/2024",
+   "title": "Ordenanza 6695/2024: Modifíquese el artículo 1 de la Ordenanza Nº 6335/22 la que quedara redactado de la siguiente manera: \"ARTICULO 1: Autorícese al Departamento Ejecutivo a otorgar a las nuevas licencias determinadas por la Ordenanza Nº 62",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140191",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140191",
+     "sha256": "5f20550a2126a1fd9dc0e21549d7e79df39626a7dd81b4698a75dd2278ba7998"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6696-2024",
+   "short": "Ordenanza 6696/2024",
+   "title": "Ordenanza 6696/2024: Modifíquese el Artículo 2° de Ordenanza N° 5784/20, el cual quedara redactado de la siguiente manera: “La Comisión Municipal de Tasaciones estará integrada por: 1 Representante de la Secretaria de Planeamiento. 1 Represe",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140196",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140196",
+     "sha256": "d7c7fe6419680d9a5da9a827582b91259072dd263797f67a70b0612367442523"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6703-2024",
+   "short": "Ordenanza 6703/2024",
+   "title": "Ordenanza 6703/2024: Convalidase la única oferta de la Licitación Privada N° 03/2024, comprendida en el Decreto del Departamento Ejecutivo N° 869/2024, para la contratación de recolección y tratamiento de residuos patogénicos para la Secreta",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140411",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140411",
+     "sha256": "c093cfb8508519567447d8ea0eeeb6cbc2182919a8af685c795fa412af7d2b51"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6705-2024",
+   "short": "Ordenanza 6705/2024",
+   "title": "Ordenanza 6705/2024: Prorroguese por el término de un (1) año a partir de la presente al Sr. Bello Reyes Angel, el periodo establecido por Contrato Tenencia Precaria inc. 6 que regula el plazo de construcción de la vivienda.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140414",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140414",
+     "sha256": "388a878781d0941d72e0382e284721f38656f68774256dce2dc477ad39a98d2d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6706-2024",
+   "short": "Ordenanza 6706/2024",
+   "title": "Ordenanza 6706/2024: Autorícese a registrar y abonar al ENTE NACIONAL DE COMUNICACIONES (ENACOM) la suma de PESOS NOVENTA Y DOS MIL CIENTO DIECINUEVE CON QUINCE CENTAVOS ($ 92.119,15), por el uso de frecuencia de radio otorgada por dicha Ent",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140416",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140416",
+     "sha256": "61ef2d9752fffce69444a613b2cbe855c9bff1d351577df8c022779f81f73bdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6715-2024",
+   "short": "Ordenanza 6715/2024",
+   "title": "Ordenanza 6715/2024: Autorizase al Departamento Ejecutivo a otorgar por el plazo de un (1) año un permiso de uso precario a la Sra. Claudia Domke, DNI: 17.373.680, para la actividad comercial de \"elaboración y venta de productos de pastelerí",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140432",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140432",
+     "sha256": "819eff543afe9a6582a8dfdfe8aac9b46eb8c5f9bb9ca7a43ca0fe81859e69fb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6716-2024",
+   "short": "Ordenanza 6716/2024",
+   "title": "Ordenanza 6716/2024: Deróguese la ordenanza N° 2533/00. - ARTICULO 2: Créase el programa de Padrinazgo Municipal de Pinamar, por el cual se faculta al Departamento Ejecutivo a firmar convenios con particulares, a fin de que estos efectúen pr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140434",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140434",
+     "sha256": "1ac60adbe613cfaeb8c7e77a60da5ab108ac01b0790e10379b538a52d1db8be6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6717-2024",
+   "short": "Ordenanza 6717/2024",
+   "title": "Ordenanza 6717/2024: Autorizase al Departamento Ejecutivo a firmar el convenio de Colaboración entre la Fundación Universidad Argentina de la Empresa y la Municipalidad de Pinamar fs. (386/395), en un todo de acuerdo con la presentación y do",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140437",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140437",
+     "sha256": "fa7fdda1f47a82389864f8af8c944bb65efdcd18a81f1e3d0e5e62617f920998"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6720-2024",
+   "short": "Ordenanza 6720/2024",
+   "title": "Ordenanza 6720/2024: Autorizase al Departamento Ejecutivo a otorgar un permiso precario por el plazo de un (1) año a nombre de la Sr. Rodríguez Montero Iván DNI 94.927.875, para hacer uso de la actividad comercial bajo el rubro \"establecimie",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140441",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140441",
+     "sha256": "107f00268e90e0d3ab731a0f8e80192d0667c0ac2355abd19edfc774fa5986c6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6721-2024",
+   "short": "Ordenanza 6721/2024",
+   "title": "Ordenanza 6721/2024: Autorizase al Departamento Ejecutivo a otorgar Habilitación comercial por excepción para la venta de artículos de jardinería y cerco, a nombre del Sr. Tisera Máximo Eduardo Antonio DNI 23.393.873, en el domicilio sito en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140444",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140444",
+     "sha256": "8304b08f03215c13919d402940eb8d19d419e542b26407dcd13091bec2b7d723"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6723-2024",
+   "short": "Ordenanza 6723/2024",
+   "title": "Ordenanza 6723/2024: Autorícese al Departamento Ejecutivo en concordancia con la Ordenanza Nº 4759/16 “ESTACIONAMIENTO DE VEHÍCULOS DE PERSONAS CON DISCAPACIDAD”, a otorgar la reserva en la vía pública, con su respectiva demarcación y señalé",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140446",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140446",
+     "sha256": "86ff301222c8a9ef4e2d87cc4168686bad1912ad0c13079a103e50e62393967e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6726-2024",
+   "short": "Ordenanza 6726/2024",
+   "title": "Ordenanza 6726/2024: Exímase de las Tasas Municipales y sus anexos por el ejercicio 2024 a la Señora Campoo Dora DNI 5.739.220, titular del inmueble ubicado en la calle Constitución 1910 2ºC. Nomenclatura Catastral Circ. 4 Sec V Manz 127 Par",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140457",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140457",
+     "sha256": "71ade8c8c860a9dbeab1a0b764baf01a5405f0525b67d49bafc2441dd01c5af5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6730-2024",
+   "short": "Ordenanza 6730/2024",
+   "title": "Ordenanza 6730/2024: Autorizase al Departamento Ejecutivo a otorgar vía excepción la aprobación del plano presentado a fj 63, 64 en el expediente de obra Nº 0037/81, al señor Julio Alonso Santos, DNI 93.351.749, permitiendo la construcción e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140461",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140461",
+     "sha256": "033002e502cf7f33c95d04c05409a00813beda1a4cef4360b6ef1033a9c6d5b3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6733-2024",
+   "short": "Ordenanza 6733/2024",
+   "title": "Ordenanza 6733/2024: Autorizase al Departamento Ejecutivo a aplicar la figura de \"pago en espera\" de las tasas municipales por el plazo de 12 meses y en el ejercicio vigente a partir de la promulgación de la presente y supeditado al avance d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140464",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140464",
+     "sha256": "43fea17d62ec7f6ae5cad7ab94163ad13df677c845f9cac5750bdb7b23b14cda"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6741-2024",
+   "short": "Ordenanza 6741/2024",
+   "title": "Ordenanza 6741/2024: Dese de Baja del Patrimonio Municipal los elementos que se detallan seguidamente, con el detalle de descripción y cuenta patrimonial de cada uno de ellos, en consonancia con los motivos vertidos en las actuaciones 4123-1",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140476",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140476",
+     "sha256": "6313a9d0eeca6fb410fe413f893a0f2c7b291b26de3452a5313b5d7b2ecd36d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6743-2024",
+   "short": "Ordenanza 6743/2024",
+   "title": "Ordenanza 6743/2024: Declárese de interés municipal y cultural el evento denominado Corbeta Corre a realizarse el día 8 de octubre de 2024.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140478",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11777/contents/2140478",
+     "sha256": "9714cedc3f7c4dd621a9867b3e58e780136da5cc4613090083b9c436f497028c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6744-2024",
+   "short": "Ordenanza 6744/2024",
+   "title": "Ordenanza 6744/2024: Homológuese el convenio N 112/23 suscripto entre la Municipalidad de Pinamar y la Asociación Diabéticos Pinamar que luce a fs 42 del Expediente del visto.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140584",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140584",
+     "sha256": "13c60f1596b7b124b3111aca3ac05042506274aff6d66af81b5a9354b735b727"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6745-2024",
+   "short": "Ordenanza 6745/2024",
+   "title": "Ordenanza 6745/2024: Autorizase al Departamento Ejecutivo a prorrogar por única vez, por el término de 6 meses, el plazo de antigüedad del vehículo dominio JWR 057 utilizado por la licencia de Remis Nº 188 a nombre del señor Ciamberlani Clau",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140585",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140585",
+     "sha256": "d0c9569cd9e22161a41b729678f168fd900ef61af861ceb0c4d4fe9a86c247f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6748-2024",
+   "short": "Ordenanza 6748/2024",
+   "title": "Ordenanza 6748/2024: Autorizase al Departamento Ejecutivo a otorgar un PERMISO PARA LA VENTA DE MATES Y TERMOS EN UN PUNTO FIJO (Galería Balmoral) a nombre del Sr. HORACIO ROMANELLO - DNI 19.068.651 por el periodo comprendido desde el 01 de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140590",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140590",
+     "sha256": "0ee262abc627ccec71a52d1d5bd7967c9218a35a6ab376c238ff3880d05cb776"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6750-2024",
+   "short": "Ordenanza 6750/2024",
+   "title": "Ordenanza 6750/2024: Exímase de las Tasas Municipales y sus anexos por el ejercicio 2024 al Señor José Miguel Alday DNI 18.489.102, titular del inmueble ubicado en la calle Canadá 1733, Ostende, Pinamar. Nomenclatura Catastral Circ. IV. Sec ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140595",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140595",
+     "sha256": "2974d0513841cfcaaa7e5e354f43228fe15d8cb9a36eec20c0d912c6f55eb604"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6752-2024",
+   "short": "Ordenanza 6752/2024",
+   "title": "Ordenanza 6752/2024: ADHESION. Adhiérase el municipio de Pinamar al Régimen de Incentivo a la Generación de Ingresos (RIGI) conforne a lo dispuesto en la normativa nacional vigente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140599",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140599",
+     "sha256": "4bc200e40705578827c177b7fde58104cef2502f70dfa9af4d01c35636dc161f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6753-2024",
+   "short": "Ordenanza 6753/2024",
+   "title": "Ordenanza 6753/2024: Confiérase el permiso de ocupación gratuita al GRUPO SCOUTS NUESTRA SEÑORA DE LA PAZ de Pinamar, ente inscripto en el Registro de Entidades de Bien Público Municipal bajo el número de registro 015/95, una fracción enclav",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140600",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140600",
+     "sha256": "880feeb6aafefc373d09f6afcd1b8f0f0845510889620fc56e5b1bd9bbba3867"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6754-2024",
+   "short": "Ordenanza 6754/2024",
+   "title": "Ordenanza 6754/2024: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pinamar de forma mixta a la Audiencia Pública a celebrarse el día 18 de noviembre d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140603",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11781/contents/2140603",
+     "sha256": "540574966d6ef5cfa48a09ffa787e74c213658e3aba8832fce36d4f41ef6f20a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6687-2024",
+   "short": "Ordenanza 6687/2024",
+   "title": "Ordenanza 6687/2024: OBJETO. La presente norma tiene por objeto beneficiar a aquellas personas humanas o jurídicas, que siendo o no residentes tengan un comercio instalado y pretendan abrir una sucursal dentro del Partido.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140133",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11773/contents/2140133",
+     "sha256": "498d13459f96a0c55677bcc7ab85a7fdda3584491ac8dbee02de95748e7a4d31"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6879-2025",
+   "short": "Ordenanza 6879/2025",
+   "title": "Ordenanza 6879/2025: Homologase el Convenio N° 0127/2025 celebrado oportunamente en el Ministerio de la Niñez y Adolescencia de la Provincia de Buenos Aires, y esta comuna, para la continuidad durante el año 2025 de la implementación local d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249221",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249221",
+     "sha256": "78644105ce643cda3c60d02faf66097a97ae2742898252ee713adc95ca023984"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6882-2025",
+   "short": "Ordenanza 6882/2025",
+   "title": "Ordenanza 6882/2025: Autorizase al Departamento Ejecutivo la suscripción del Convenio Boleto Estudiantil Docente y Auxiliares, entre la Empresa de Transporte 12 de Octubre SRL, y la Municipalidad de Pinamar, obrante a fs. 1341/1344 del Exped",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249226",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249226",
+     "sha256": "bc0743232dff438b2645137a4629ecc2fa90fc87881c4ba414bf491805835f1b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6887-2025",
+   "short": "Ordenanza 6887/2025",
+   "title": "Ordenanza 6887/2025: Autorícese la modificación del indicador urbanístico de densidad para la parcela Circ. IV - Secc. Z - FRACCION 3 - Parcela 66, ubicada en calle Pescadilla, Los Calamares y Martín Pescador, pasando de 150 hab/ha a 300 hab",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249230",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249230",
+     "sha256": "c301edc5a2933a7f078c4f298d6fcb66935fed734e7fa0d8458eaab3e6079bcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6896-2025",
+   "short": "Ordenanza 6896/2025",
+   "title": "Ordenanza 6896/2025: Convalídense los alcances de la Ordenanza Nº 2935/03 , que trata sobre la liberación del pago de cargas económicas a las personas que acrediten discapacidad en términos de las leyes 22.431 y 10.592 y sus reglamentaciones",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249235",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 14,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249235",
+     "sha256": "dec51356236e624dcea4cf652012917b5f630154b2bd287704a5c9bed8f40af1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6899-2025",
+   "short": "Ordenanza 6899/2025",
+   "title": "Ordenanza 6899/2025: Declararese de Interés Cultural y Social el evento de presentación del libro \"Tras la huella de orígenes y legados\", que se llevará a cabo el día 22 de marzo de 2025 en el Teatro de La Torre, en Pinamar, con motivo de la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249240",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249240",
+     "sha256": "add5a5749f77f03a07212227d0bf243ae740692543a6dca5f4e5cddcc8537096"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6906-2025",
+   "short": "Ordenanza 6906/2025",
+   "title": "Ordenanza 6906/2025: Dese de baja a los adjudicatarios que se indican en el Anexo I que formará parte de la presente Ordenanza del plan familia propietaria incluidos en la Ordenanza N° 4433/14 y en la Ordenanza N° 5552/19.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249250",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249250",
+     "sha256": "3a9ec1dad20a976817faa958ab7062c963a7b44361662128d0e15ff0a09b7a6c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6910-2025",
+   "short": "Ordenanza 6910/2025",
+   "title": "Ordenanza 6910/2025: Autorícese a la firma del Convenio cuyo modelo luce adjunto de fs.18 a 23 (frente y dorso) del Expediente del VISTO, a suscribir entre el Centro de Administraciones Tributarias Subnacionales (CEATS, CUIT 30-70927265-5), ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249285",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249285",
+     "sha256": "843408e8b0bc1c44ee320b8a9bf768320dc38796e94c01fb5915fdd758afc109"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6939-2025",
+   "short": "Ordenanza 6939/2025",
+   "title": "Ordenanza 6939/2025: APRUÉBESE la Rendición de Cuentas correspondiente al Ejercicio 2024 presentada por el Departamento Ejecutivo según Expediente N° 4123-0558/2025 Cpo. 1 y Cpo. 2.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249359",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249359",
+     "sha256": "936cafcd60d89893de5cc37e7214039dba7db81b2d9bf3aa0466b34e2d613404"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6943-2025",
+   "short": "Ordenanza 6943/2025",
+   "title": "Ordenanza 6943/2025: Convalídese el convenio suscripto entre la municipalidad de Pinamar con el Colegio de la Abogacía de La Plata, obrante a fojas 16 a 23 del Expediente Nº 4123-0711/2025 Cpo. 1.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249367",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249367",
+     "sha256": "18213160dba818d17eae95ae5b5a36f71a77ed4413926dbee7c9654640f65945"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6944-2025",
+   "short": "Ordenanza 6944/2025",
+   "title": "Ordenanza 6944/2025: Homologase el Convenio N° 0193/2025 celebrado oportunamente entre la Universidad Nacional Raúl Scalabrini Ortiz, y esta comuna, para llevar adelante acciones conjuntas, creando lazos de colaboración reciproca en los camp",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249375",
+   "versions": [
+    {
+     "from": "2025-07-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13129/contents/2249375",
+     "sha256": "eb7fb7140fb286f1246e46530200ac0da4a361035bef64cc0315796c82e49564"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6946-2025",
+   "short": "Ordenanza 6946/2025",
+   "title": "Ordenanza 6946/2025: Concédase la prorroga del contrato de prestación de servicio eléctrico, obrante de Fs. 15 a 42, en la jurisdicción del Partido de Pinamar a la Cooperativa de Agua y Luz de Pinamar Ltda. por treinta (30) años, así como re",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280531",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280531",
+     "sha256": "97a0201c647daab5a6d81fefde0e99f5e94ed26e35f842f0f71bbfeb869fdbec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6979-2025",
+   "short": "Ordenanza 6979/2025",
+   "title": "Ordenanza 6979/2025: El Honorable Concejo Deliberante de la Ciudad de Pinamar otorga al Sr. Hugo David Veneroso Centurion el reconocimiento como “Personalidad Destacada” por su trayectoria y valiosa contribución a la cultura e identidad de n",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280548",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280548",
+     "sha256": "7506dca3c543dd19910399fdf09c9a8e7da1944f62e153913a2ed3ed4a9e66af"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-6982-2025",
+   "short": "Ordenanza 6982/2025",
+   "title": "Ordenanza 6982/2025: Autoricese a la Asociación Civil MX del Norte, representada por el Sr. Paul Urfini, a realizar tanto la competencia como los trabajos para llevar adelante la misma, siendo fiscalizada por FEBOM, los días 28 y 29 de junio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280559",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280559",
+     "sha256": "7e4a4d67312c8a2785af60b5dcf8a7ea9a5461d70ef12e1d3605f745e6a81361"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7019-2025",
+   "short": "Ordenanza 7019/2025",
+   "title": "Ordenanza 7019/2025: Establézcase la obligatoriedad de incluir la reproducción del Himno de Pinamar al inicio de todos los actos institucionales organizados por la Municipalidad de Pinamar.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280978",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280978",
+     "sha256": "dd29005c349796b0d2a100a27de2bd39cd056bac85e8a570f45569b36b73b3eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7020-2025",
+   "short": "Ordenanza 7020/2025",
+   "title": "Ordenanza 7020/2025: Modifíquese el ARTICULO 1 de la Ordenanza Nº 6653/24 el que quedará redactado de la siguiente manera: \"ARTÍCULO 1: Tarifa Pasajeros no residentes a partir de la promulgación de la presente: 1 sección Pinamar Pinamar $262",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280981",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13499/contents/2280981",
+     "sha256": "fc2f11345d5580e82c66e53d9d9bc11e781f46abff6075b4b187df27aef7d9e8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7046-2026",
+   "short": "Ordenanza 7046/2026",
+   "title": "Ordenanza 7046/2026: Autorizase al Sr. Intendente Municipal, Juan Manuel Ibarguren, DNI 31.937.563 a hacer uso de la licencia solicitada sin goce de haberes desde el día 15 de septiembre del 2025 al 24 de septiembre del 2025 inclusive ARTICU",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343260",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343260",
+     "sha256": "0e6806b7519f503c0d302be83de7e2bf274f9cb7194f41b7cb2f26bd3d7cd8cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7086-2026",
+   "short": "Ordenanza 7086/2026",
+   "title": "Ordenanza 7086/2026: Créase el régimen para la instalación, funcionamiento y autorización de escaparates destinados a la venta de diarios, revistas y productos afines, así como de rubros complementarios vinculados al emprendedurismo local y ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343287",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343287",
+     "sha256": "a4022e7f0968d1cd1b440b4f830111f7059920702c2128adfa3d812fa7bdc084"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7106-2026",
+   "short": "Ordenanza 7106/2026",
+   "title": "Ordenanza 7106/2026: Ámbito de aplicación. La presente Ordenanza será de aplicación a todas las obras particulares, públicas o privadas, que se ejecuten dentro del ejido urbano de Pinamar, quedando comprendidos los períodos de temporada de v",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343289",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343289",
+     "sha256": "6c66f76351e9b3743a6809482135db83e5a67275f0ead57d6018472acdcb4b90"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7124-2026",
+   "short": "Ordenanza 7124/2026",
+   "title": "Ordenanza 7124/2026: Objeto. Crease el “Programa Municipal de Presupuesto Participativo del Partido de Pinamar”. El monto o porcentaje anual a asignar, asi como la determinacion de la partida presupuestaria de origen, seran fijados por el De",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343293",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343293",
+     "sha256": "40bf291c672285ead0c0988c0b536f55e32c93a15cc9584513376e573a18187f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7153-2026",
+   "short": "Ordenanza 7153/2026",
+   "title": "Ordenanza 7153/2026: Autorízase al Departamento Ejecutivo a disponer el uso del módulo de oficina identificado como Patrimonio Municipal N° 22311, ubicado en la Terminal de Ómnibus de Pinamar, para el funcionamiento del Punto Hecho en Pinama",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343297",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343297",
+     "sha256": "070bf87568ed10422e98f57dca05046bae0b4bd2e0fdbfcf912563fd8bbe7e5c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7154-2026",
+   "short": "Ordenanza 7154/2026",
+   "title": "Ordenanza 7154/2026: Modifiquese el Artículo 19 de la Ordenanza N° 6253/2022 referido a la actualización de la habilitación del vehiculo, el que quedará redactado de la siguiente manera: \"ARTÍCULO 19: De la actualización del vehículo. ARTÍCU",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343302",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14382/contents/2343302",
+     "sha256": "b1ebe09bc1bce3797909afaafe600b716809e16f17af11f0240b88a62671f256"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7183-2026",
+   "short": "Ordenanza 7183/2026",
+   "title": "Ordenanza 7183/2026: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pinamar de forma mixta a la Audiencia Pública a celebrarse el día 17 de Marzo de 20",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14476/contents/2351536",
+   "versions": [
+    {
+     "from": "2026-02-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14476/contents/2351536",
+     "sha256": "2a2ff24b4c021107be03ee0a0ed52bad420f60f238354c5e53c3e735d29df887"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7180-2026",
+   "short": "Ordenanza 7180/2026",
+   "title": "Ordenanza 7180/2026: Autorización de uso temporal Autorícese en el inmueble identificado catastralmente como IV-109BU, el uso C1P \"Centro de Expendio de Combustibles\", en la modalidad de Estación de Servicio Móvil, conforme a los alcances de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14855/contents/2379812",
+   "versions": [
+    {
+     "from": "2026-05-03",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14855/contents/2379812",
+     "sha256": "d739259eb92937853c9873c1cb653aa7b913191687d52872a66616f8e0f9bdf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7228-2026",
+   "short": "Ordenanza 7228/2026",
+   "title": "Ordenanza 7228/2026: Convalídense los alcances de la Ordenanza N° 2935/03, que trata sobre la liberación del pago de cargas económicas a las personas que acrediten discapacidad en términos de las leyes 22.431 y 10.592 y sus reglamentaciones ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15549/contents/2426533",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15549/contents/2426533",
+     "sha256": "bacc1950565ee063668a5e5fbe224e036f3b7b29395c14ef7f38615939734183"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7232-2026",
+   "short": "Ordenanza 7232/2026",
+   "title": "Ordenanza 7232/2026: Declárese \"Personalidad Destacada del Deporte\" a la vecina María Candela Cerrone, por su histórica victoria en la Maratón de las Islas Malvinas, destacando su temple como mujer deportista y su mensaje de paz y soberanía ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15549/contents/2426539",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15549/contents/2426539",
+     "sha256": "341e6067b51d2deadcf9b2774d0350ab4d9abde3135ec7f34464982db7a4d42c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-7246-2026",
+   "short": "Ordenanza 7246/2026",
+   "title": "Ordenanza 7246/2026: Declárese de Interés Municipal y Cultural el evento denominado \"Día del Pionero Pinamarense\", organizado por la Asociación de Amigos del Museo Histórico del Partido de Pinamar, cuya edición del corriente año se llevó a c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15549/contents/2426544",
+   "versions": [
+    {
+     "from": "2026-08-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15549/contents/2426544",
+     "sha256": "865cd5f48e673171c3b39b7a575d19a14d951178066c43fd593f9052136ecd3f"
+    }
+   ]
+  }
+ ]
+}

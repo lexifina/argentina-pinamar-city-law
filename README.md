@@ -1,0 +1,251 @@
+# Pinamar: municipal law history in git
+
+The municipal law of the Partido de Pinamar (Province of Buenos Aires), Argentina, as a git history: one file per article, one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
+
+It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ar-b-pinamar/`. The province's law is in [lexifina/argentina-buenos-aires-law](https://github.com/lexifina/argentina-buenos-aires-law) and Argentina's national law in [lexifina/argentina-law](https://github.com/lexifina/argentina-law).
+
+The text is in Spanish, exactly as the source prints it.
+
+## What this repository holds
+
+203 ordinances so far, in force from 31 May 2017 to 15 August 2026, each as published in the Boletín Oficial Municipal de Pinamar, added in parts.
+
+| Folder | Ordinance | History |
+| --- | --- | --- |
+| `ordenanza-4971-2017/` | Ordenanza 4971/2017: Convalidase el Decreto Nº 0271/17 por medio del cual se exime a la Asociación Atletas Master de Pinamar (A.A.M.PI), entidad de bien público… | in force 31 May 2017 |
+| `ordenanza-4976-2017/` | Ordenanza 4976/2017: Prorrógase por última vez y hasta el 31/03/2018 los plazos conferidos por el Articulo 39 de la Ordenanza Nº 3628/08 y modificatoria, para l… | in force 31 May 2017 |
+| `ordenanza-4995-2017/` | Ordenanza 4995/2017: Autorizase a la firma del Acta de Adhesión al Programa de Operadores en Calle entre el Organismo Provincial de la Niñez y Adolescencia de l… | in force 1 July 2017 |
+| `ordenanza-4999-2017/` | Ordenanza 4999/2017: Homologase el Convenio de complementación de Servicios entre el Ministerio de Justicia y Derechos Humanos y la Municipalidad de Pinamar y e… | in force 14 July 2017 |
+| `ordenanza-5018-2017/` | Ordenanza 5018/2017: Autorícese al Departamento Ejecutivo a la suscripción de los Convenios Marco glosados a fs. 2/14 (que se agrega a la presente como Anexo I)… | in force 10 August 2017 |
+| `ordenanza-5021-2017/` | Ordenanza 5021/2017: Apruebase a partir del 01 de enero de 2017 el Presupuesto de Gastos y Cálculo de Recursos 2017 por un total de PESOS SETECIENTOS CUARENTA Y… | in force 10 August 2017 |
+| `ordenanza-5022-2017/` | Ordenanza 5022/2017: Homologase el Convenio de Cooperación y Financiación para la Ejecución de la Obra Centralidad Pinamar celebrado entre la Secretaría de Obra… | in force 10 August 2017 |
+| `ordenanza-5034-2017/` | Ordenanza 5034/2017: Acéptase la donación efectuada por la Sociedad del Estado Subterráneos de Buenos Aires, dependiente del Ministerio de Desarrollo Urbano y T… | in force 16 September 2017 |
+| `ordenanza-5043-2017/` | Ordenanza 5043/2017: Autorízase al Departamento Ejecutivo a la Adhesión al Sistema de Atención Médica Organizada S.A.M.O. | in force 16 September 2017 |
+| `ordenanza-5073-2017/` | Ordenanza 5073/2017: Insístase en todos sus términos la Ordenanza Nº 5046/17. | in force 17 November 2017 |
+| `ordenanza-5076-2017/` | Ordenanza 5076/2017: Autorícese al Departamento Ejecutivo a disponer del espacio público para realizar un evento gastronómico, cumpliendo con todas las normativ… | in force 17 November 2017 |
+| `ordenanza-5077-2017/` | Ordenanza 5077/2017: Modifícase del Anexo I el Artículo 22 de la Ordenanza Municipal Nº 3980/12, de la siguiente forma: | in force 17 November 2017 |
+| `ordenanza-5090-2017/` | Ordenanza 5090/2017: Autorízase al Departamento Ejecutivo a firmar convenios para la creación de un Consorcio con otros Municipios y/o una o varias personas de … | in force 16 December 2017 |
+| `ordenanza-5091-2017/` | Ordenanza 5091/2017: Autorícese al Departamento Ejecutivo a disponer del espacio público ubicado en Av. del Mar y Martin Pescador para realizar la "Fiesta del P… | in force 16 December 2017 |
+| `ordenanza-5127-2018/` | Ordenanza 5127/2018: Modifiquese al Artículo 5 Apartado I) de la Ordenanza Nº 4675/15 Rubros Alimentarios, unificando Inciso e) y h), e incorporando la categorí… | in force 8 February 2018 |
+| `ordenanza-5129-2018/` | Ordenanza 5129/2018: Autorícese al Señor Guillermo López DNI 20.946.330, a ocupar un total de (noventa) 90 metros cuadrados del espacio público ubicado entre el… | in force 8 February 2018 |
+| `ordenanza-5164-2018/` | Ordenanza 5164/2018: Apruébase un aumento del veinte por ciento (20%) en el Cuadro Tarifario para el Servicio de Transporte Urbano del Partido de Pinamar que pr… | in force 15 April 2018 |
+| `ordenanza-5166-2018/` | Ordenanza 5166/2018: Insístase en todos sus términos la Ordenanza Nº 5124/17 | in force 15 April 2018 |
+| `ordenanza-5175-2018/` | Ordenanza 5175/2018: Homologase el Convenio entre el Ministerio de Desarrollo Social de la Nación y la Municipalidad de Pinamar (que se agrega como Anexo N° 1),… | in force 27 May 2018 |
+| `ordenanza-5180-2018/` | Ordenanza 5180/2018: Autorícese al Departamento Ejecutivo a disponer del espacio público con "Food Trucks" ubicado en Av. Bunge esquina Marco Polo, (por única v… | in force 27 May 2018 |
+| `ordenanza-5181-2018/` | Ordenanza 5181/2018: Autorícese al Departamento Ejecutivo a disponer del espacio público con "Food Trucks" ubicado en Av. Bunge esquina Camino de los Pioneros, … | in force 25 July 2018 |
+| `ordenanza-5182-2018/` | Ordenanza 5182/2018: Declarar la Emergencia Tarifaria en materia de servicios públicos de distribución eléctrica, redes de agua potable y servicio de gas natura… | in force 25 July 2018 |
+| `ordenanza-5206-2018/` | Ordenanza 5206/2018: Autorizase al Departamento Ejecutivo a incrementar hasta un veinte por ciento (20%) del valor previsto en el Convenio N° 137/17, el Boleto … | in force 25 July 2018 |
+| `ordenanza-5211-2018/` | Ordenanza 5211/2018: Convalidase en todos sus términos el Decreto Nº 1074/18 conforme lo establecido en el Artículo 2 del acto administrativo citado. | in force 5 September 2018 |
+| `ordenanza-5224-2018/` | Ordenanza 5224/2018: Autorizase al Consorcio de Copropietarios Marbella I y Marbella II a la realización de una rampa que garantice la plena accesibilidad al ed… | in force 7 October 2018 |
+| `ordenanza-5242-2018/` | Ordenanza 5242/2018: Homologase el Convenio entre la Provincia de Buenos Aires y la Municipalidad de Pinamar, para la implementación del Proyecto de Protección … | in force 31 October 2018 |
+| `ordenanza-5247-2018/` | Ordenanza 5247/2018: Declárese de interés Municipal la Actividad de Extensión denominada Alternativas de trabajo interdisciplinario con el sufrimiento mental, q… | in force 31 October 2018 |
+| `ordenanza-5266-2018/` | Ordenanza 5266/2018: Modifíquese el artículo 1° de la Ordenanza Nº 5126/17 que en lo pertinente modificó el artículo N° 246 texto conforme Ordenanza Nº 4943/17,… | in force 11 November 2018 |
+| `ordenanza-5298-2019/` | Ordenanza 5298/2019: Créase el Programa: Calles Recreativas, el que tendrá por objetivo principal el fomento de actividades deportivas, recreativas, culturales … | in force 9 March 2019 |
+| `ordenanza-5309-2019/` | Ordenanza 5309/2019: ADHESION: Adhiérase el Municipio del Partido de Pinamar a la Ley Nacional de Transito N° 24.449, Ley Provincial de Transito 13.927, ambas c… | in force 16 March 2019 |
+| `ordenanza-5318-2019/` | Ordenanza 5318/2019: Modifícase el Artículo 134 del Código Tributario (Texto Conforme Ordenanza Nº 4780/16), al que se incorporará como primer párrafo, el sigui… | in force 16 March 2019 |
+| `ordenanza-5357-2019/` | Ordenanza 5357/2019: Homologase el Convenio entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires y la Municipalidad de Pi… | in force 15 May 2019 |
+| `ordenanza-5386-2019/` | Ordenanza 5386/2019: Autorizase el referendo del Proyecto de Convenio obrante en el folio 04/21 del Expediente Nº 4123-0149/19, cuyo objeto es asegurar, en el m… | in force 2 August 2019 |
+| `ordenanza-5393-2019/` | Ordenanza 5393/2019: Declárese de Interés Municipal el evento denominado ENCUENTRO DE MUJERES FUERTES, EMPODERADAS Y TRANSFORMADORAS organizado por Verdaderos O… | in force 2 August 2019 |
+| `ordenanza-5394-2019/` | Ordenanza 5394/2019: Autorizase al Departamento Ejecutivo a la suscripción de un Convenio con la Empresa Montemar S.R.L para la continuidad del Boleto Estudiant… | in force 2 August 2019 |
+| `ordenanza-5403-2019/` | Ordenanza 5403/2019: Declárese de Interés Patrimonial, según lo estipulado por la Ordenanza Nº 2392/99, al edificio de la Casa Robette, ubicado en la localidad … | in force 2 August 2019 |
+| `ordenanza-5408-2019/` | Ordenanza 5408/2019: La Junta Municipal de Defensa Civil con el Intendente Municipal como Presidente de la misma, y/o la Coordinadora de Defensa Civil como área… | in force 13 October 2019 |
+| `ordenanza-5423-2019/` | Ordenanza 5423/2019: Homológuese el convenio firmado entre la Municipalidad de Pinamar y el Instituto de Cine de Artes Audiovisuales (INCA), identificado bajo e… | in force 13 October 2019 |
+| `ordenanza-5432-2019/` | Ordenanza 5432/2019: Declárese de Interés Municipal el evento denominado NO ME MATES organizado por Verdaderos Orígenes a realizarse el viernes 17 de mayo de 20… | in force 13 October 2019 |
+| `ordenanza-5435-2019/` | Ordenanza 5435/2019: Modifíquese el artículo N° 246 del Código Tributario (Ordenanza Nº 3062/03 y sus modif.) el que quedará redactado de la siguiente manera: "… | in force 13 October 2019 |
+| `ordenanza-5436-2019/` | Ordenanza 5436/2019: Modifiquese el articulo 42 del Titulo XVII del Consejo Asesor y Permanente de Cumplimiento de las Leyes Nº 11723, 12099 y 12704 del Anexo q… | in force 13 October 2019 |
+| `ordenanza-5488-2019/` | Ordenanza 5488/2019: Facúltese al Departamento Ejecutivo a establecer facilidades de pago, a los Concesionarios de Playa, por las deudas que mantengan con el Mu… | in force 9 November 2019 |
+| `ordenanza-5499-2019/` | Ordenanza 5499/2019: Aceptase la donación efectuada por la Secretaria General de la Presidencia de la Nación, a esta Municipalidad de Pinamar, que consiste en u… | in force 9 November 2019 |
+| `ordenanza-5505-2019/` | Ordenanza 5505/2019: Crease el programa "Plazas Libres de Humo" cuya finalidad es la regulación de los aspectos relativos al consumo del tabaco en los espacios … | in force 9 November 2019 |
+| `ordenanza-5513-2020/` | Ordenanza 5513/2020: OBJETO: La presente Ordenanza tiene por objeto beneficiar a aquellas personas humanas o jurídicas que sean o no residentes, para la apertur… | in force 30 November 2019 |
+| `ordenanza-5507-2020/` | Ordenanza 5507/2020: Autorízase al Departamento Ejecutivo a permitir al Club de Pesca el acceso, estacionamiento y circulación de cuatriciclos y/o vehiculos aut… | in force 15 January 2020 |
+| `ordenanza-5625-2020/` | Ordenanza 5625/2020: Designase como zonificación E1p a la parcela de 97.510,26m2 con medidas de 273.28m de ancho por 350.87m de largo, lindera a la ruta Interba… | in force 26 July 2020 |
+| `ordenanza-5660-2020/` | Ordenanza 5660/2020: Declárese de Interés Municipal el evento denominado "Jornada de la Mujer" organizado por Verdaderos Orígenes a realizarse el viernes 13 de … | in force 26 July 2020 |
+| `ordenanza-5673-2020/` | Ordenanza 5673/2020: Autorizase al Departamento Ejecutivo a Otorgar un descuento de hasta 50% (cincuenta por ciento) sobre la Tasa de Seguridad e Higiene, a los… | in force 26 July 2020 |
+| `ordenanza-5680-2020/` | Ordenanza 5680/2020: Autorícese al Departamento Ejecutivo a firmar un convenio de adhesión al Programa Tarjeta "YPF EN RUTA", por el cual la Municipalidad solo … | in force 26 July 2020 |
+| `ordenanza-5763-2021/` | Ordenanza 5763/2021: Modifíquese el artículo 6 de la Ordenanza Nº 5557/19 que quedara redactado de la siguiente manera: | in force 2 May 2021 |
+| `ordenanza-5781-2021/` | Ordenanza 5781/2021: Homologase el Convenio Marco entre el Ministerios de Obras Publicas de la Nación y la Municipalidad de Pinamar, identificado bajo el número… | in force 2 May 2021 |
+| `ordenanza-5784-2021/` | Ordenanza 5784/2021: Crease la Comisión Municipal de Tasaciones que tendrá por finalidad la valuación de los Bienes privados municipales en los casos en que el … | in force 2 May 2021 |
+| `ordenanza-5801-2021/` | Ordenanza 5801/2021: El Honorable Concejo Deliberante del Partido de Pinamar adhiere en todos sus términos a la Ley Nacional N° 27.592 conocida como "Ley Yoland… | in force 2 May 2021 |
+| `ordenanza-5811-2021/` | Ordenanza 5811/2021: Adhiérase la Municipalidad de Pinamar a la Ley Nacional N° 27.350 -incluida como anexo 1- de la presente, que establece un marco regulatori… | in force 2 May 2021 |
+| `ordenanza-5860-2021/` | Ordenanza 5860/2021: Homologue el Convenio N° 308/2020, suscripto ante el Ministerio de | in force 2 July 2021 |
+| `ordenanza-5874-2021/` | Ordenanza 5874/2021: Modifíquese el art. 1 de la Ordenanza Nº 5863/21 el que quedara | in force 2 July 2021 |
+| `ordenanza-5875-2021/` | Ordenanza 5875/2021: Extiendase el plazo otorgado en el artículo 3º por la Ordenanza Nº | in force 2 July 2021 |
+| `ordenanza-5877-2021/` | Ordenanza 5877/2021: ADHIÉRASE la Municipalidad de Pinamar a lo dispuesto por el | in force 2 July 2021 |
+| `ordenanza-5886-2021/` | Ordenanza 5886/2021: OBJETO: El presente Proyecto de Ordenanza tiene por objeto | in force 2 July 2021 |
+| `ordenanza-5887-2021/` | Ordenanza 5887/2021: Autorizase al Departamento Ejecutivo a eximir de las tasas de | in force 2 July 2021 |
+| `ordenanza-5900-2021/` | Ordenanza 5900/2021: Declárese de Interés Municipal y Cultural el evento organizado por | in force 2 July 2021 |
+| `ordenanza-5921-2021/` | Ordenanza 5921/2021: Adhiérase la Municipalidad de Pinamar a la Resolución Nº 1/2019 del | in force 29 August 2021 |
+| `ordenanza-5931-2021/` | Ordenanza 5931/2021: Prorróguese por el plazo de un año los permisos de uso precario a los | in force 29 August 2021 |
+| `ordenanza-5932-2021/` | Ordenanza 5932/2021: Institúyase en el Municipio de Pinamar el 27 de mayo de cada año | in force 29 August 2021 |
+| `ordenanza-5938-2021/` | Ordenanza 5938/2021: Homológuese el Convenio Marco identificado bajo el número CONVE- | in force 29 August 2021 |
+| `ordenanza-5942-2021/` | Ordenanza 5942/2021: Modifíquese el artículo 4 de la Ordenanza Nº 5886/21 el cual quedara | in force 1 September 2021 |
+| `ordenanza-5948-2021/` | Ordenanza 5948/2021: Fijase en la suma de PESOS DOS MIL OCHOCIENTOS CUARENTA | in force 1 September 2021 |
+| `ordenanza-5955-2022/` | Ordenanza 5955/2022: Adhiérase a esta Municipalidad al "Día Mundial de la Salud del | in force 8 April 2022 |
+| `ordenanza-5967-2022/` | Ordenanza 5967/2022: Autorícese a la ocupación del espacio público por un día durante el | in force 8 April 2022 |
+| `ordenanza-5971-2022/` | Ordenanza 5971/2022: Homologuese el Convenio Marco, firmado el día 13 de Julio del año | in force 8 April 2022 |
+| `ordenanza-6046-2022/` | Ordenanza 6046/2022: Dispóngase la implementación de lactarios en instituciones públicas | in force 8 April 2022 |
+| `ordenanza-6048-2022/` | Ordenanza 6048/2022: Declarese OBLIGATORIA la construcción, mantenimiento, reparación | in force 8 April 2022 |
+| `ordenanza-6101-2022/` | Ordenanza 6101/2022: Homologase el Convenio Marco entre el Ministerio de Desarrollo | in force 8 April 2022 |
+| `ordenanza-6110-2022/` | Ordenanza 6110/2022: Homologase El Anexo del Proyecto Plan Nacional Primera Infancia | in force 1 June 2022 |
+| `ordenanza-6138-2022/` | Ordenanza 6138/2022: Declárese de Interés Municipal el proyecto Espacios Azules Dejar una | in force 2 September 2022 |
+| `ordenanza-6139-2022/` | Ordenanza 6139/2022: Autorícese a disponer del espacio público sito en Av. Bunge y Marco | in force 2 September 2022 |
+| `ordenanza-6147-2022/` | Ordenanza 6147/2022: Convalídese el Contrato de comodato celebrado entre HONDA | in force 2 September 2022 |
+| `ordenanza-6148-2022/` | Ordenanza 6148/2022: establece que Las sanciones por infracciones a esta ley son de | in force 2 September 2022 |
+| `ordenanza-6155-2022/` | Ordenanza 6155/2022: Autorizase al Departamento Ejecutivo a prorrogar hasta el 30 de abril | in force 2 September 2022 |
+| `ordenanza-6175-2022/` | Ordenanza 6175/2022: Declárese Personalidad Destacada de la Cultura de este Municipio a | in force 2 September 2022 |
+| `ordenanza-6185-2022/` | Ordenanza 6185/2022: Acéptese la donación recibida en esta Comuna, de parte del Sr. | in force 2 September 2022 |
+| `ordenanza-6181-2022/` | Ordenanza 6181/2022: Se establece la inhabilitación para ejercer los cargos municipales de: a- Secretarios, b- Directores, c- Coordinadores, d- Jefes de Servici… | in force 18 November 2022 |
+| `ordenanza-6186-2022/` | Ordenanza 6186/2022: Crease el Registro de Beneficio de descuento de la Tasa SICU, que dependerá de la Secretaria de Seguridad y la Secretaria de Hacienda y Mod… | in force 18 November 2022 |
+| `ordenanza-6227-2022/` | Ordenanza 6227/2022: Aceptase la cesión de la parcela identificada catastralmente como Sección IV, Parcela 6bs, Reserva de Equipamiento Comunitario de 9Ha. 17a … | in force 18 November 2022 |
+| `ordenanza-6237-2022/` | Ordenanza 6237/2022: Adhiérase al Plan de Integración Territorial Universitaria “PUENTES”, con el objeto de ampliar las oportunidades de acceso a la educación s… | in force 18 November 2022 |
+| `ordenanza-6246-2022/` | Ordenanza 6246/2022: Convalídese los alcances de la Ordenanza Nº 4773/16 , Articulo 1 que trata sobre la eximición de derechos de ocupación de espacios públicos… | in force 18 November 2022 |
+| `ordenanza-6250-2022/` | Ordenanza 6250/2022: Establézcase el doble sentido de circulación vial en la calle Júpiter, entre las calles Jasón y 1ro. De Julio de 1978, continuando en doble… | in force 18 November 2022 |
+| `ordenanza-6297-2022/` | Ordenanza 6297/2022: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pi… | in force 24 November 2022 |
+| `ordenanza-6255-2023/` | Ordenanza 6255/2023: Adhiérase, en el ámbito del Partido de Pinamar a la Ley Nacional Nº 27.506 que establece el RÉGIMEN DE PROMOCIÓN DE LA ECONOMÍA DEL CONOCIM… | in force 6 April 2023 |
+| `ordenanza-6277-2023/` | Ordenanza 6277/2023: Autorícese el Convenio Marco entre el Instituto Universitario River Plate y la Municipalidad de Pinamar, para la puesta en marcha de accion… | in force 6 April 2023 |
+| `ordenanza-6321-2023/` | Ordenanza 6321/2023: Dispóngase que la documentación oficial del Hospital Comunitario de Pinamar Dr. Dionisio José “Pepe” Olaechea lleve como membrete en el mar… | in force 6 April 2023 |
+| `ordenanza-6391-2023/` | Ordenanza 6391/2023: Créase el "Centro Educativo Municipal" que tendrá funcionamiento en el edificio municipal ubicado en Avenida Intermédanos Sur N° 530 (nomen… | in force 6 April 2023 |
+| `ordenanza-393-2023/` | Ordenanza 393/2023: Autorícese la suscripción del Convenio Boleto estudiantil, docente y auxiliares (el cual forma parte de la presente como ANEXO I), entre la … | in force 9 August 2023 |
+| `ordenanza-6305-2023/` | Ordenanza 6305/2023: Facultase al Departamento Ejecutivo de Pinamar a implementar la constitución obligatoria de domicilio electrónico en procedimientos adminis… | in force 9 August 2023 |
+| `ordenanza-6306-2023/` | Ordenanza 6306/2023: Autorizase al Departamento Ejecutivo a suscribir Convenio de Cooperación, que luce a fs. 2/6 entre la Fundación Universidad de Belgrano “Do… | in force 9 August 2023 |
+| `ordenanza-6307-2023/` | Ordenanza 6307/2023: Autorizase al Departamento Ejecutivo a suscribir Carta Compromiso para las Practicas Profesionales entre la Universidad Nacional de Lanus y… | in force 9 August 2023 |
+| `ordenanza-6329-2023/` | Ordenanza 6329/2023: Cédase al Ministerio de Seguridad de la Provincia de Buenos Aires, Superintendencia de Seguridad Siniestral, Dirección de Bomberos, Cuartel… | in force 9 August 2023 |
+| `ordenanza-6346-2023/` | Ordenanza 6346/2023: Apruébese el nuevo Contrato de Concesión de CALP y sus anexos en todos sus términos, obrante el mismo de fojas 2 a 101 del expediente 4123-… | in force 9 August 2023 |
+| `ordenanza-6360-2023/` | Ordenanza 6360/2023: PROGRAMA MUNICIPAL DE INMUEBLES. Crease el “Programa Municipal de Inmuebles de Pinamar” con el objetivo de administrar y generar reservas d… | in force 9 August 2023 |
+| `ordenanza-6366-2023/` | Ordenanza 6366/2023: Modifíquese el Articulo 1 de la Ordenanza Nº 5951/2021 el que deberá decir: Articulo 1: "Cédase al Ministerio de Seguridad de la Provincia … | in force 9 August 2023 |
+| `ordenanza-6392-2023/` | Ordenanza 6392/2023: Autorícese la suscripción del Convenio específico entre el Instituto Universitario River Plate y el Municipio de Pinamar, en concordancia c… | in force 9 August 2023 |
+| `ordenanza-6410-2023/` | Ordenanza 6410/2023: Convalidase en todos sus terminos el Decreto N° 3029/2022 por el cual se estableció la afectación presupuestaria del gasto tal como se enun… | in force 9 August 2023 |
+| `ordenanza-6429-2023/` | Ordenanza 6429/2023: Autorizase al Departamento Ejecutivo a prorrogar por el término de un año a partir de la presente todas aquellas licencias con vencimiento … | in force 9 August 2023 |
+| `ordenanza-6436-2023/` | Ordenanza 6436/2023: APRUEBESE la Rendición de Cuentas correspondiente al Ejercicio 2022 presentada por el Departamento Ejecutivo según Expediente N° 4123-1041/… | in force 9 August 2023 |
+| `ordenanza-6437-2023/` | Ordenanza 6437/2023: ESTABLEZCASE la baja de la Prorroga del cálculo de recursos y presupuesto de gastos 2021 y sus modificaciones, plasmado en los comprobantes… | in force 9 August 2023 |
+| `ordenanza-6439-2023/` | Ordenanza 6439/2023: Aceptase la donación efectuada por el Hospital Italiano de Buenos Aires, a esta Municipalidad de Pinamar, que consiste en el equipamiento q… | in force 9 August 2023 |
+| `ordenanza-6445-2023/` | Ordenanza 6445/2023: Homologase el Convenio de Cooperación Nº 060/2023 entre el Ministerio de Desarrollo de la Comunidad de la Provincia de Buenos Aires, y la M… | in force 9 August 2023 |
+| `ordenanza-6467-2024/` | Ordenanza 6467/2024: Declárese Personalidad Destacada del Deporte al joven Maximiliano Almaraz, DNI 34.590.002, por su trayectoria deportiva destacada en ciclis… | in force 12 January 2024 |
+| `ordenanza-6468-2024/` | Ordenanza 6468/2024: Homológase el “Convenio Urbanístico celebrado entre la Municipalidad de Pinamar y BNG 5 S.A", suscripto con fecha 1 de junio de 2023, ident… | in force 12 January 2024 |
+| `ordenanza-6469-2024/` | Ordenanza 6469/2024: Deróguese, a partir del 1 de julio de 2023, los artículos 61 y 62 del Código Tributario de Pinamar (Ordenanza 6324/2022 y modificatorias). | in force 12 January 2024 |
+| `ordenanza-6472-2024/` | Ordenanza 6472/2024: Créase el “Programa Pinamar distingue a su Gente” en el marco de cada nuevo aniversario de la Ciudad, el que se llevará a cabo desde el día… | in force 12 January 2024 |
+| `ordenanza-6473-2024/` | Ordenanza 6473/2024: Modifíquese el artículo N° 220 del Código Tributario (Ordenanza Nº 6324/22), el que quedará redactado de la siguiente manera: "Artículo 220… | in force 12 January 2024 |
+| `ordenanza-6476-2024/` | Ordenanza 6476/2024: Crease el Consejo Asesor de Políticas para la Prevención de Adicciones. El Consejo Asesor funcionará en el ámbito del Programa Preventivo y… | in force 12 January 2024 |
+| `ordenanza-6480-2024/` | Ordenanza 6480/2024: Modifiquese el Artículo 1 de la Ordenanza Nº 6428/23, el que quedará redactado de la siguiente manera: "Autorízase al Departamento Ejecutiv… | in force 12 January 2024 |
+| `ordenanza-6494-2024/` | Ordenanza 6494/2024: Créase en el ámbito del Partido de Pinamar el Registro de navegantes con Kayaks y botes a remos el cual estará a cargo del operativo de seg… | in force 12 January 2024 |
+| `ordenanza-6540-2024/` | Ordenanza 6540/2024: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pi… | in force 12 January 2024 |
+| `ordenanza-6562-2024/` | Ordenanza 6562/2024: Modifíquese el artículo N° 220 del Código Tributario (Ordenanza Nº 6324/22), el que quedará redactado de la siguiente manera: "Artículo 220… | in force 25 August 2024 |
+| `ordenanza-6569-2024/` | Ordenanza 6569/2024: Modifíquese el artículo 17 inc. J de la Ordenanza Nº 6253/22 que quedará redactado de la siguiente manera: Inciso J: "La Unidad afectada al… | in force 25 August 2024 |
+| `ordenanza-6570-2024/` | Ordenanza 6570/2024: Autorizase a la actualización de tarifa del servicio a la Asociación Propietaria de Taxi del Partido de Pinamar, a $834.- (ochocientos trei… | in force 25 August 2024 |
+| `ordenanza-6583-2024/` | Ordenanza 6583/2024: Convalídese en los términos del artículo 21 del Decreto Ley N° 8751/77 y el artículo 4° de la Ordenanza Municipal N° 4813/16, el Decreto Nº… | in force 25 August 2024 |
+| `ordenanza-6606-2024/` | Ordenanza 6606/2024: Autorizase a la actualización de tarifa del servicio a la Asociación Propietaria de Taxi del Partido de Pinamar, a partir del 07 de enero d… | in force 25 August 2024 |
+| `ordenanza-6686-2024/` | Ordenanza 6686/2024: NUEVAS HABILITACIONES. aquellas personas que desean habilitar un comercio podrán hacerlo abonando el valor de la tasa de habilitación de co… | in force 31 October 2024 |
+| `ordenanza-6621-2024/` | Ordenanza 6621/2024: Condónese de la deuda de ejercicios anteriores sobre Tasas Municipales y sus Anexas al Señor Maneyro, Héctor Daniel, DNI 14.325.471 titular… | in force 7 December 2024 |
+| `ordenanza-6624-2024/` | Ordenanza 6624/2024: Convalídese el Decreto 0306/2024 de fecha 09 de Febrero de 2024, por el cual se autoriza al pago de Bonificación SAMO correspondiente a los… | in force 7 December 2024 |
+| `ordenanza-6625-2024/` | Ordenanza 6625/2024: Autorizase al Departamento Ejecutivo a eximir al Sr. Guillermo Dario Buseta (DNI: 30.817.232) del pago del canon para el permiso de venta a… | in force 7 December 2024 |
+| `ordenanza-6626-2024/` | Ordenanza 6626/2024: Exímase del pago del 5% ( cinco por ciento) del depósito para fondo benéfico que regula el Artículo 6º, Inciso a) de la Ordenanza Nº 0972/8… | in force 7 December 2024 |
+| `ordenanza-6628-2024/` | Ordenanza 6628/2024: Dese de baja del Patrimonio Municipal por DESTRUCCION TOTAL al vehículo marca VOLKSWAGEN, modelo GOL 1.6 3 P POWER PLUS, año 2009, dominio … | in force 7 December 2024 |
+| `ordenanza-6630-2024/` | Ordenanza 6630/2024: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pi… | in force 7 December 2024 |
+| `ordenanza-6632-2024/` | Ordenanza 6632/2024: Convalidase en todos sus términos el Decreto Nº 0164/2024 de fs. 50/51.- ARTICULO 2: Comuníquese al Departamento Ejecutivo, dése al Registr… | in force 7 December 2024 |
+| `ordenanza-6637-2024/` | Ordenanza 6637/2024: Autorízase al Departamento Ejecutivo a otorgar un permiso precario por el plazo de un (1) año a nombre de la Sra. VALLEJOS, Mónica Alejandr… | in force 7 December 2024 |
+| `ordenanza-6639-2024/` | Ordenanza 6639/2024: Condonónese la deuda de la tasa de seguridad e higiene sobre la Cuenta municipal 2-142884, correspondiente al inmueble denominado Refugio d… | in force 7 December 2024 |
+| `ordenanza-6645-2024/` | Ordenanza 6645/2024: Autoricese al Departamento Ejecutivo al recupero del lote 2 de la manzana 23 seccion A, y por lo expresado en los considerendados, autorice… | in force 7 December 2024 |
+| `ordenanza-6646-2024/` | Ordenanza 6646/2024: Condónese la deuda e intereses por las Tasas Municipales y anexos que posee el Señor Manuel Segura DNI 10.484.092 titular del inmueble ubic… | in force 7 December 2024 |
+| `ordenanza-6648-2024/` | Ordenanza 6648/2024: Condónese la deuda e intereses en concepto de TSU y sus anexas complementarias devengadas y cargadas al día de la fecha en las cuentas Nº 9… | in force 7 December 2024 |
+| `ordenanza-6650-2024/` | Ordenanza 6650/2024: Autorizase al Sr. Intendente Municipal, Juan Manuel Ibarguren, DNI 31.937.563 a hacer uso de la licencia solicitada sin goce de haberes des… | in force 7 December 2024 |
+| `ordenanza-6655-2024/` | Ordenanza 6655/2024: Autorícese la suscripción del Convenio específico entre la Universidad de la Marina Mercante y el Municipio de Pinamar, en concordancia con… | in force 7 December 2024 |
+| `ordenanza-6656-2024/` | Ordenanza 6656/2024: Autorícese al Departamento Ejecutivo a otorgar venia para operar por el termino de 6 meses a partir de la promulgación de la presente a la … | in force 7 December 2024 |
+| `ordenanza-6658-2024/` | Ordenanza 6658/2024: Aceptase la donación efectuada a esta comuna, que consiste en el equipamiento que seguidamente se detalla, elementos que serán afectados al… | in force 7 December 2024 |
+| `ordenanza-6659-2024/` | Ordenanza 6659/2024: Acéptese la donación efectuada por la Fundación Donde Quiero Estar Replica Pinamar, a esta Municipalidad, de seis (6) Sillones para Quimiot… | in force 7 December 2024 |
+| `ordenanza-6660-2024/` | Ordenanza 6660/2024: Modifiquese el Articulo 1 de la Ordenanza Nº 6484/2023 el que quedara redactado de la siguiente manera: “ARTÍCULO 1: Aceptase la donación e… | in force 8 December 2024 |
+| `ordenanza-6662-2024/` | Ordenanza 6662/2024: Condónese de la deuda de ejercicios anteriores sobre Tasas Municipales y sus Anexas al Señor Nicanor Flores, DNI 93.163.249, co-titular y O… | in force 8 December 2024 |
+| `ordenanza-6664-2024/` | Ordenanza 6664/2024: Aceptase la donación recibida en esta Comuna, de parte de la Fundación Dr. Silvio Sebastian Macchiavello, de (5) TRANSDUCTORES marca PHILIP… | in force 8 December 2024 |
+| `ordenanza-6665-2024/` | Ordenanza 6665/2024: Autoricese al Departamento Ejecutivo a registrar y efectuar el pago a la Agente Municipal ROBIGLIO VILLALONGA Johana DNI 34.489.085, identi… | in force 8 December 2024 |
+| `ordenanza-6668-2024/` | Ordenanza 6668/2024: Declárese de Interés Municipal y Social el encuentro denominado “PRIMERA JORNADA DE PROMOCIÓN DE SALUD MENTAL Y PREVENCIÓN DEL SUICIDIO”, a… | in force 8 December 2024 |
+| `ordenanza-6676-2024/` | Ordenanza 6676/2024: Condónese la deuda e intereses por las Tasas Municipales y anexos sobre la Partida Municipal Nº 35650, de la localidad de Pinamar a la Sra.… | in force 8 December 2024 |
+| `ordenanza-6677-2024/` | Ordenanza 6677/2024: Autorizase al Departamento Ejecutivo a registrar y a efectuar el pago total de los importes correspondientes, y cuyo detalle obra en folios… | in force 8 December 2024 |
+| `ordenanza-6678-2024/` | Ordenanza 6678/2024: Aceptese la donación recibida a esta Comuna, de parte de la Asociación Cooperadora del Hospital Comunitario de Pinamar (ACOHOSPI); debiéndo… | in force 8 December 2024 |
+| `ordenanza-6679-2024/` | Ordenanza 6679/2024: Aceptese la donación recibida a esta Comuna, de parte de un Contribuyente, de un (1) ELECTROCARDIOGRAFO marca CARDIMAX FX-121 donado al Hos… | in force 8 December 2024 |
+| `ordenanza-6684-2024/` | Ordenanza 6684/2024: Desadjudíquese de forma definitiva a los Sres. Carle Diego Cristian DNI: 20.538.989 y Moringo Vargas Maria Senaida DNI: 94.152.437, adjudic… | in force 8 December 2024 |
+| `ordenanza-6690-2024/` | Ordenanza 6690/2024: Concédase permiso de concesión y Explotación del Muelle de Pesca al CLUB DE PESCA DE PINAMAR por un plazo de cinco (5) años. | in force 8 December 2024 |
+| `ordenanza-6693-2024/` | Ordenanza 6693/2024: Autorícese al Departamento Ejecutivo a otorgar un permiso de uso precario para la habilitación del rubro despensa a la Sra. Gloria Lorena M… | in force 8 December 2024 |
+| `ordenanza-6694-2024/` | Ordenanza 6694/2024: Autorízase al Departamento Ejecutivo a otorgar un permiso de uso precario para la habilitación del rubro comidas rapidas (pizzería) sin con… | in force 8 December 2024 |
+| `ordenanza-6695-2024/` | Ordenanza 6695/2024: Modifíquese el artículo 1 de la Ordenanza Nº 6335/22 la que quedara redactado de la siguiente manera: "ARTICULO 1: Autorícese al Departamen… | in force 8 December 2024 |
+| `ordenanza-6696-2024/` | Ordenanza 6696/2024: Modifíquese el Artículo 2° de Ordenanza N° 5784/20, el cual quedara redactado de la siguiente manera: “La Comisión Municipal de Tasaciones … | in force 8 December 2024 |
+| `ordenanza-6703-2024/` | Ordenanza 6703/2024: Convalidase la única oferta de la Licitación Privada N° 03/2024, comprendida en el Decreto del Departamento Ejecutivo N° 869/2024, para la … | in force 8 December 2024 |
+| `ordenanza-6705-2024/` | Ordenanza 6705/2024: Prorroguese por el término de un (1) año a partir de la presente al Sr. Bello Reyes Angel, el periodo establecido por Contrato Tenencia Pre… | in force 8 December 2024 |
+| `ordenanza-6706-2024/` | Ordenanza 6706/2024: Autorícese a registrar y abonar al ENTE NACIONAL DE COMUNICACIONES (ENACOM) la suma de PESOS NOVENTA Y DOS MIL CIENTO DIECINUEVE CON QUINCE… | in force 8 December 2024 |
+| `ordenanza-6715-2024/` | Ordenanza 6715/2024: Autorizase al Departamento Ejecutivo a otorgar por el plazo de un (1) año un permiso de uso precario a la Sra. Claudia Domke, DNI: 17.373.6… | in force 8 December 2024 |
+| `ordenanza-6716-2024/` | Ordenanza 6716/2024: Deróguese la ordenanza N° 2533/00. - ARTICULO 2: Créase el programa de Padrinazgo Municipal de Pinamar, por el cual se faculta al Departame… | in force 8 December 2024 |
+| `ordenanza-6717-2024/` | Ordenanza 6717/2024: Autorizase al Departamento Ejecutivo a firmar el convenio de Colaboración entre la Fundación Universidad Argentina de la Empresa y la Munic… | in force 8 December 2024 |
+| `ordenanza-6720-2024/` | Ordenanza 6720/2024: Autorizase al Departamento Ejecutivo a otorgar un permiso precario por el plazo de un (1) año a nombre de la Sr. Rodríguez Montero Iván DNI… | in force 8 December 2024 |
+| `ordenanza-6721-2024/` | Ordenanza 6721/2024: Autorizase al Departamento Ejecutivo a otorgar Habilitación comercial por excepción para la venta de artículos de jardinería y cerco, a nom… | in force 8 December 2024 |
+| `ordenanza-6723-2024/` | Ordenanza 6723/2024: Autorícese al Departamento Ejecutivo en concordancia con la Ordenanza Nº 4759/16 “ESTACIONAMIENTO DE VEHÍCULOS DE PERSONAS CON DISCAPACIDAD… | in force 8 December 2024 |
+| `ordenanza-6726-2024/` | Ordenanza 6726/2024: Exímase de las Tasas Municipales y sus anexos por el ejercicio 2024 a la Señora Campoo Dora DNI 5.739.220, titular del inmueble ubicado en … | in force 8 December 2024 |
+| `ordenanza-6730-2024/` | Ordenanza 6730/2024: Autorizase al Departamento Ejecutivo a otorgar vía excepción la aprobación del plano presentado a fj 63, 64 en el expediente de obra Nº 003… | in force 8 December 2024 |
+| `ordenanza-6733-2024/` | Ordenanza 6733/2024: Autorizase al Departamento Ejecutivo a aplicar la figura de "pago en espera" de las tasas municipales por el plazo de 12 meses y en el ejer… | in force 8 December 2024 |
+| `ordenanza-6741-2024/` | Ordenanza 6741/2024: Dese de Baja del Patrimonio Municipal los elementos que se detallan seguidamente, con el detalle de descripción y cuenta patrimonial de cad… | in force 8 December 2024 |
+| `ordenanza-6743-2024/` | Ordenanza 6743/2024: Declárese de interés municipal y cultural el evento denominado Corbeta Corre a realizarse el día 8 de octubre de 2024. | in force 8 December 2024 |
+| `ordenanza-6744-2024/` | Ordenanza 6744/2024: Homológuese el convenio N 112/23 suscripto entre la Municipalidad de Pinamar y la Asociación Diabéticos Pinamar que luce a fs 42 del Expedi… | in force 11 December 2024 |
+| `ordenanza-6745-2024/` | Ordenanza 6745/2024: Autorizase al Departamento Ejecutivo a prorrogar por única vez, por el término de 6 meses, el plazo de antigüedad del vehículo dominio JWR … | in force 11 December 2024 |
+| `ordenanza-6748-2024/` | Ordenanza 6748/2024: Autorizase al Departamento Ejecutivo a otorgar un PERMISO PARA LA VENTA DE MATES Y TERMOS EN UN PUNTO FIJO (Galería Balmoral) a nombre del … | in force 11 December 2024 |
+| `ordenanza-6750-2024/` | Ordenanza 6750/2024: Exímase de las Tasas Municipales y sus anexos por el ejercicio 2024 al Señor José Miguel Alday DNI 18.489.102, titular del inmueble ubicado… | in force 11 December 2024 |
+| `ordenanza-6752-2024/` | Ordenanza 6752/2024: ADHESION. Adhiérase el municipio de Pinamar al Régimen de Incentivo a la Generación de Ingresos (RIGI) conforne a lo dispuesto en la normat… | in force 11 December 2024 |
+| `ordenanza-6753-2024/` | Ordenanza 6753/2024: Confiérase el permiso de ocupación gratuita al GRUPO SCOUTS NUESTRA SEÑORA DE LA PAZ de Pinamar, ente inscripto en el Registro de Entidades… | in force 11 December 2024 |
+| `ordenanza-6754-2024/` | Ordenanza 6754/2024: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pi… | in force 11 December 2024 |
+| `ordenanza-6687-2024/` | Ordenanza 6687/2024: OBJETO. La presente norma tiene por objeto beneficiar a aquellas personas humanas o jurídicas, que siendo o no residentes tengan un comerci… | in force 31 December 2024 |
+| `ordenanza-6879-2025/` | Ordenanza 6879/2025: Homologase el Convenio N° 0127/2025 celebrado oportunamente en el Ministerio de la Niñez y Adolescencia de la Provincia de Buenos Aires, y … | in force 20 July 2025 |
+| `ordenanza-6882-2025/` | Ordenanza 6882/2025: Autorizase al Departamento Ejecutivo la suscripción del Convenio Boleto Estudiantil Docente y Auxiliares, entre la Empresa de Transporte 12… | in force 20 July 2025 |
+| `ordenanza-6887-2025/` | Ordenanza 6887/2025: Autorícese la modificación del indicador urbanístico de densidad para la parcela Circ. IV - Secc. Z - FRACCION 3 - Parcela 66, ubicada en c… | in force 20 July 2025 |
+| `ordenanza-6896-2025/` | Ordenanza 6896/2025: Convalídense los alcances de la Ordenanza Nº 2935/03 , que trata sobre la liberación del pago de cargas económicas a las personas que acred… | in force 20 July 2025 |
+| `ordenanza-6899-2025/` | Ordenanza 6899/2025: Declararese de Interés Cultural y Social el evento de presentación del libro "Tras la huella de orígenes y legados", que se llevará a cabo … | in force 20 July 2025 |
+| `ordenanza-6906-2025/` | Ordenanza 6906/2025: Dese de baja a los adjudicatarios que se indican en el Anexo I que formará parte de la presente Ordenanza del plan familia propietaria incl… | in force 20 July 2025 |
+| `ordenanza-6910-2025/` | Ordenanza 6910/2025: Autorícese a la firma del Convenio cuyo modelo luce adjunto de fs.18 a 23 (frente y dorso) del Expediente del VISTO, a suscribir entre el C… | in force 20 July 2025 |
+| `ordenanza-6939-2025/` | Ordenanza 6939/2025: APRUÉBESE la Rendición de Cuentas correspondiente al Ejercicio 2024 presentada por el Departamento Ejecutivo según Expediente N° 4123-0558/… | in force 20 July 2025 |
+| `ordenanza-6943-2025/` | Ordenanza 6943/2025: Convalídese el convenio suscripto entre la municipalidad de Pinamar con el Colegio de la Abogacía de La Plata, obrante a fojas 16 a 23 del … | in force 20 July 2025 |
+| `ordenanza-6944-2025/` | Ordenanza 6944/2025: Homologase el Convenio N° 0193/2025 celebrado oportunamente entre la Universidad Nacional Raúl Scalabrini Ortiz, y esta comuna, para llevar… | in force 20 July 2025 |
+| `ordenanza-6946-2025/` | Ordenanza 6946/2025: Concédase la prorroga del contrato de prestación de servicio eléctrico, obrante de Fs. 15 a 42, en la jurisdicción del Partido de Pinamar a… | in force 24 September 2025 |
+| `ordenanza-6979-2025/` | Ordenanza 6979/2025: El Honorable Concejo Deliberante de la Ciudad de Pinamar otorga al Sr. Hugo David Veneroso Centurion el reconocimiento como “Personalidad D… | in force 24 September 2025 |
+| `ordenanza-6982-2025/` | Ordenanza 6982/2025: Autoricese a la Asociación Civil MX del Norte, representada por el Sr. Paul Urfini, a realizar tanto la competencia como los trabajos para … | in force 24 September 2025 |
+| `ordenanza-7019-2025/` | Ordenanza 7019/2025: Establézcase la obligatoriedad de incluir la reproducción del Himno de Pinamar al inicio de todos los actos institucionales organizados por… | in force 24 September 2025 |
+| `ordenanza-7020-2025/` | Ordenanza 7020/2025: Modifíquese el ARTICULO 1 de la Ordenanza Nº 6653/24 el que quedará redactado de la siguiente manera: "ARTÍCULO 1: Tarifa Pasajeros no resi… | in force 24 September 2025 |
+| `ordenanza-7046-2026/` | Ordenanza 7046/2026: Autorizase al Sr. Intendente Municipal, Juan Manuel Ibarguren, DNI 31.937.563 a hacer uso de la licencia solicitada sin goce de haberes des… | in force 5 February 2026 |
+| `ordenanza-7086-2026/` | Ordenanza 7086/2026: Créase el régimen para la instalación, funcionamiento y autorización de escaparates destinados a la venta de diarios, revistas y productos … | in force 5 February 2026 |
+| `ordenanza-7106-2026/` | Ordenanza 7106/2026: Ámbito de aplicación. La presente Ordenanza será de aplicación a todas las obras particulares, públicas o privadas, que se ejecuten dentro … | in force 5 February 2026 |
+| `ordenanza-7124-2026/` | Ordenanza 7124/2026: Objeto. Crease el “Programa Municipal de Presupuesto Participativo del Partido de Pinamar”. El monto o porcentaje anual a asignar, asi como… | in force 5 February 2026 |
+| `ordenanza-7153-2026/` | Ordenanza 7153/2026: Autorízase al Departamento Ejecutivo a disponer el uso del módulo de oficina identificado como Patrimonio Municipal N° 22311, ubicado en la… | in force 5 February 2026 |
+| `ordenanza-7154-2026/` | Ordenanza 7154/2026: Modifiquese el Artículo 19 de la Ordenanza N° 6253/2022 referido a la actualización de la habilitación del vehiculo, el que quedará redacta… | in force 5 February 2026 |
+| `ordenanza-7183-2026/` | Ordenanza 7183/2026: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pi… | in force 22 February 2026 |
+| `ordenanza-7180-2026/` | Ordenanza 7180/2026: Autorización de uso temporal Autorícese en el inmueble identificado catastralmente como IV-109BU, el uso C1P "Centro de Expendio de Combust… | in force 3 May 2026 |
+| `ordenanza-7228-2026/` | Ordenanza 7228/2026: Convalídense los alcances de la Ordenanza N° 2935/03, que trata sobre la liberación del pago de cargas económicas a las personas que acredi… | in force 15 August 2026 |
+| `ordenanza-7232-2026/` | Ordenanza 7232/2026: Declárese "Personalidad Destacada del Deporte" a la vecina María Candela Cerrone, por su histórica victoria en la Maratón de las Islas Malv… | in force 15 August 2026 |
+| `ordenanza-7246-2026/` | Ordenanza 7246/2026: Declárese de Interés Municipal y Cultural el evento denominado "Día del Pionero Pinamarense", organizado por la Asociación de Amigos del Mu… | in force 15 August 2026 |
+
+## Source
+
+Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Pinamar, <https://sibom.slyt.gba.gob.ar/cities/97>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
+
+## Dates
+
+- Each commit is dated at **noon, America/Argentina/Buenos_Aires, on the day the ordinance took effect**: the day its own vigencia clause names, or otherwise the ninth day after its publication in the Boletín Oficial Municipal de Pinamar (Código Civil y Comercial de la Nación, arts. 5 and 6).
+- Each ordinance is its text as published. Later ordinances that amend it are separate folders; their changes are not merged into the earlier text.
+- Versions that take effect after the retrieval day are on the `futuro` branch, never merged into `main`.
+
+## Files
+
+`<ordinance>/art-005.md` is Artículo 5; `encabezado.md` holds the number, the place and date, the expediente line and anything printed before Artículo 1. Signatures and annexes stay in the file of the article they follow. One paragraph per line.
+
+## How it is checked
+
+- Every version of every ordinance is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`.
+- The letters and digits of every version equal those of the source page it was read from (read again with an independent HTML reader), so no word is lost or added.
+- Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
+
+## Limits
+
+This is not an official publication. The binding text is the one published in the Boletín Oficial Municipal de Pinamar. Only the ordinances listed above are included, and amendments are not consolidated into the texts they amend.
+
+## Left out
+
+3 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Pinamar page gives no article text to read:
+
+| Ordinance | Published | Why | Page |
+| --- | --- | --- | --- |
+| Ordenanza 6174/2022 | 9 November 2022 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796758> |
+| Ordenanza 6348-22 | 28 March 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854375> |
+| Ordenanza 7183/2026 | 24 April 2026 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/14855/contents/2379819> |
