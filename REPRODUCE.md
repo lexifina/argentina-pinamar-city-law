@@ -7,6 +7,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Pinamar | <https://sibom.slyt.gba.gob.ar/cities/97> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Sistema de Boletines Oficiales Municipales (SIBOM) | <https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796758> | 2026-11-05 | No licence or reuse terms are stated in the official ordinance and SIBOM About pages examined. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -217,20 +218,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-7228-2026` | Ordenanza 7228/2026: Convalídense los alcances de la Ordenanza N° 2935/03, que trata sobre la liberación del pago de cargas económicas a las personas que acrediten discapacidad en términos de las leyes 22.431 y 10.592 y sus reglamentaciones  | 1 | 2026-08-15 to 2026-08-15 |
 | `ordenanza-7232-2026` | Ordenanza 7232/2026: Declárese "Personalidad Destacada del Deporte" a la vecina María Candela Cerrone, por su histórica victoria en la Maratón de las Islas Malvinas, destacando su temple como mujer deportista y su mensaje de paz y soberanía  | 1 | 2026-08-15 to 2026-08-15 |
 | `ordenanza-7246-2026` | Ordenanza 7246/2026: Declárese de Interés Municipal y Cultural el evento denominado "Día del Pionero Pinamarense", organizado por la Asociación de Amigos del Museo Histórico del Partido de Pinamar, cuya edición del corriente año se llevó a c | 1 | 2026-08-15 to 2026-08-15 |
+| `ordenanza-6174-2022` | Ordenanza 6174/2022: Fondo de cooperación a centros culturales | 1 | 2022-11-18 to 2022-11-18 |
 
-The build made 203 commits:
+The build made 204 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 203 | first version of an act |
+| 204 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 203 laws in the record.
-- 406 tags.
+- 204 laws in the record.
+- 408 tags.
 
 ## Dates
 
@@ -242,15 +244,15 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4a18d16b0c0ad6f83c99deca9b97e554ac9d95236abff062821eaf15bd823d20` (1202854 bytes).
+- Corpus: sha256 `75e7441c4a328165859ad51b1d90018aecb585054dc2866f315ea4b7018848c2` (1209480 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-203 versions of 203 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 204 history commits and 408 tags (history tip `93caeaa5f50ecd5b04d3293fe34a16d2f317a0c2`).
 
 ## Decisions made by hand
 
@@ -259,6 +261,9 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Ordinance 6174/2022 is a single-file act because articles 1–8 are published within one paragraph and the first heading reads RTICULO 1. Source wording is retained, including that spelling.
+- Publication is 9 November 2022 in the official ordinance listing; the act is dated 13 May 2022. No commencement clause is stated, so the existing corpus default gives 18 November 2022.
+- Normative images in this act: source 0, referenced 0, omitted 0.
 
 ## What AI did and did not do
 
@@ -270,3 +275,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- model
+- role

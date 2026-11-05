@@ -2842,6 +2842,20 @@
      "sha256": "865cd5f48e673171c3b39b7a575d19a14d951178066c43fd593f9052136ecd3f"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-6174-2022",
+   "short": "Ordenanza 6174/2022",
+   "title": "Ordenanza 6174/2022: Fondo de cooperación a centros culturales",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796758",
+   "versions": [
+    {
+     "from": "2022-11-18",
+     "units": 1,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796758",
+     "sha256": "c5aa299d164fa8e0a22712b1ca7ddb943245cfc356cfe951d1085c64aa3c8678"
+    }
+   ]
   }
  ]
 }

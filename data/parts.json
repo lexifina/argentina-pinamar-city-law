@@ -227,6 +227,12 @@
     "ordenanza-7246-2026"
    ],
    "sha256": "f1881b49094654ed52f52a10da11f08847954645de7b0cd1d07a1ca68b89eaeb"
+  },
+  "35-q246-depth.json": {
+   "acts": [
+    "ordenanza-6174-2022"
+   ],
+   "sha256": "193ee01eef4c8c6ec0de3a221b00dbd83d269464aea1a9faf5ec280e8e899106"
   }
  },
  "schema": 1
