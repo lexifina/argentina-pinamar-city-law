@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-203 ordinances so far, in force from 31 May 2017 to 15 August 2026, each as published in the Boletín Oficial Municipal de Pinamar, added in parts.
+204 ordinances so far, in force from 31 May 2017 to 15 August 2026, each as published in the Boletín Oficial Municipal de Pinamar, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -100,6 +100,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-6237-2022/` | Ordenanza 6237/2022: Adhiérase al Plan de Integración Territorial Universitaria “PUENTES”, con el objeto de ampliar las oportunidades de acceso a la educación s… | in force 18 November 2022 |
 | `ordenanza-6246-2022/` | Ordenanza 6246/2022: Convalídese los alcances de la Ordenanza Nº 4773/16 , Articulo 1 que trata sobre la eximición de derechos de ocupación de espacios públicos… | in force 18 November 2022 |
 | `ordenanza-6250-2022/` | Ordenanza 6250/2022: Establézcase el doble sentido de circulación vial en la calle Júpiter, entre las calles Jasón y 1ro. De Julio de 1978, continuando en doble… | in force 18 November 2022 |
+| `ordenanza-6174-2022/` | Ordenanza 6174/2022: Fondo de cooperación a centros culturales | in force 18 November 2022; single-file act |
 | `ordenanza-6297-2022/` | Ordenanza 6297/2022: Convóquese a los miembros de la Comisión Permanente y a los usuarios del servicio público de Transporte Local y/o vecinos del Partido de Pi… | in force 24 November 2022 |
 | `ordenanza-6255-2023/` | Ordenanza 6255/2023: Adhiérase, en el ámbito del Partido de Pinamar a la Ley Nacional Nº 27.506 que establece el RÉGIMEN DE PROMOCIÓN DE LA ECONOMÍA DEL CONOCIM… | in force 6 April 2023 |
 | `ordenanza-6277-2023/` | Ordenanza 6277/2023: Autorícese el Convenio Marco entre el Instituto Universitario River Plate y la Municipalidad de Pinamar, para la puesta en marcha de accion… | in force 6 April 2023 |
@@ -218,7 +219,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## Source
 
-Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Pinamar, <https://sibom.slyt.gba.gob.ar/cities/97>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
+Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Pinamar, <https://sibom.slyt.gba.gob.ar/cities/97>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). No licence or reuse terms are stated in the official ordinance and SIBOM About pages examined; no reuse permission is inferred from their absence.
 
 ## Dates
 
@@ -242,10 +243,11 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-3 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Pinamar page gives no article text to read:
+Two listed entries remain excluded for the reasons shown below:
 
 | Ordinance | Published | Why | Page |
 | --- | --- | --- | --- |
-| Ordenanza 6174/2022 | 9 November 2022 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/7772/contents/1796758> |
 | Ordenanza 6348-22 | 28 March 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/8390/contents/1854375> |
 | Ordenanza 7183/2026 | 24 April 2026 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/14855/contents/2379819> |
+
+Ordinance 6174/2022 is preserved as a single-file act, including the source heading “RTICULO 1”. Its eight articles and recitals are retained as published.
